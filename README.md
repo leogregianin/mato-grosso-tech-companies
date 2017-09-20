@@ -6,8 +6,8 @@
 
 |+Empresa  | Site | Sede | Desenvolvimento | Banco de dados | Cloud | Empresa/Órgão |
 |------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Abaco | [Site](http://www.abaco.com.br) | Cuiabá | Java, Genexus | Oracle | - | Privada |
-| AgroV | [Site](http://www.agrov.com.br) | Cuiabá | - | - | - | Privada |
+| Abaco | [Site](http://www.abaco.com.br) | Cuiabá | Genexus | Oracle | - | Privada |
+| AgroV | [Site](http://www.agrov.com.br) | Cuiabá | Java, JSF, Hibernate | PostgreSQL | DigitalOcean | Privada |
 | AloW | [Site](http://www.alow.com.br) | Cuiabá | - | - | - | Privada |
 | Angel Sistemas | [Site](http://www.angelsistemas.com.br) | Cuiabá | Delphi, C# | - | - | Privada |
 | Axys Tecnologia | [Site](http://www.axystecnologia.com.br) | Cuiabá | C# | - | - | Privada |
@@ -15,7 +15,7 @@
 | Blue TI | [Site](http://www.blueti.com.br) | Cuiabá | - | - | - | Privada |
 | Codigo5 | [Site](https://www.codigo5.com.br) | Cuiabá | - | - | - | Privada |
 | Connecsoft | [Site](http://www.conecsoft.com.br) | Cuiabá | Delphi, C# | - | - | Privada |
-| Connect Sotware | [Site](www.connect.com.vc) | Cuiabá | Delphi, PHP | MySQL | - | Privada |
+| Connect Sotware | [Site](www.connect.com.vc) | Cuiabá | Delphi, C#, PHP | MySQL | - | Privada |
 | ControlSoft | [Site](http://www.controlsoft.com.br) | Sorriso | - | - | - | Privada |
 | Coplan | [Site](https://www.coplan.srv.br) | Cuiabá | Java | - | - | Privada |
 | Dropo | [Site](http://www.dropo.me) | Cuiabá | - | - | - | Privada |
