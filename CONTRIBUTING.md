@@ -7,10 +7,9 @@ Suas contribuições são sempre bem-vindas!
 * Informe o nome da empresa, site, cidade sede, as tecnologias em que desenvolve software, o banco de dados utilizado, a cloud e se é uma empresa pública ou privada.
 * Informe o link da fonte dessa informação.
 
-
 ## Guia para contribuições para Pull Request
 
-* Adicione um link para cada Pull Request.
+* Adicione a empresa para cada Pull Request.
 * Adicione a empresa seguindo a estrutura do Markdown do GitHub.
+* Informe um link com a fonte dessa informação.
 * Após a alteração do README.md, abra seu terminal preferido e execute: ```python sort.py``` para ordenação alfabética dos nomes das empresas.
-
