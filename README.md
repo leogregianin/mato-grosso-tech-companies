@@ -26,6 +26,7 @@
 | Estuda.com | [Site](http://www.estuda.com) | Cuiabá | - | - | - | Privada |
 | Expert BI | [Site](http://www.expertbi.com.br) | Cuiabá | Qlik View | SQL Server | - | Privada |
 | Harmony Sistemas | [Site](http://www.harmonysistemas.com.br) | Cuiabá | - | - | - | Privada |
+| Hetosoft | [Site](http://www.hetosoft.com.br) | Várzea Grade | Delphi | - | - | Privada |
 | Inovabit | [Site](http://www.inovabit.com.br) | Cuiabá | - | - | - | Privada | 
 | Intelecto Sistemas  | [Site](http://www.intelecto.com.br) | Cuiabá | Delphi, Typescript/Ionic, Java/Android, PHP/Laravel | SQL Anywhere, SQL Server, Oracle, MySQL | AWS | Privada |
 | Junta Comercial (Jucemat) | [Site](http://www.jucemat.mt.gov.br) | Cuiabá | - | - | - | Público |
@@ -56,7 +57,7 @@
 | Tribunal Regional Eleitoral (TRE) | [Site](http://www.tre-mt.jus.br) | Cuiabá | Java, JBoss, Wildfly, Tomcat | Oracle | - | Público |
 | Trinix | [Site](http://www.trinix.com.br) | Cuiabá | PHP, Javascript, jQuery, HTML, CSS | MySQL, Oracle, SQL Server| | Privada |
 | UNIC | [Site](http://www.unic.com.br) | Cuiabá | - | - | - | Privada | 
-| UNIVAG | [Site](http://www.univag.edu.br) | Várzea Grande | C#, PHP | - | - | Privada | 
+| UNIVAG | [Site](http://www.univag.edu.br) | Várzea Grande | C#, PHP | SQL Server | - | Privada | 
 | Vector Informática | [Site](http://www.vectorinf.com.br) | Cuiabá | Delphi, PHP, Java | - | - | Privada |
 | Webflavia | [Site](http://www.webflavia.com.br) | Cuiabá | - | - | - | Privada |
 | Weeke Aplicativos | [Site](http://www.weeke.com.br) | Cuiabá | - | - | - | Privada |
