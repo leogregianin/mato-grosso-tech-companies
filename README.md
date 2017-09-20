@@ -16,6 +16,7 @@
 | Codigo5 | [Site](https://www.codigo5.com.br) | Cuiabá | - | - | - | Privada |
 | Connecsoft | [Site](http://www.conecsoft.com.br) | Cuiabá | Delphi, C# | - | - | Privada |
 | Connect Sotware | [Site](www.connect.com.vc) | Cuiabá | Delphi, C#, PHP | MySQL | - | Privada |
+| Consignum | [Site](http://www.consignum.com.br) | Cuiabá | Java, JBoss, JSF, Hibernate | PostgreSQL | - | Privada |
 | ControlSoft | [Site](http://www.controlsoft.com.br) | Sorriso | - | - | - | Privada |
 | Coplan | [Site](https://www.coplan.srv.br) | Cuiabá | Java, Genexus | - | - | Privada |
 | Dropo | [Site](http://www.dropo.me) | Cuiabá | - | - | - | Privada |
@@ -54,8 +55,8 @@
 | Tribunal Regional do Trabalho (TRT) | [Site](http://www.trt23.jus.br) | Cuiabá | Java, JBoss, Tomcat | - | - | Público |
 | Tribunal Regional Eleitoral (TRE) | [Site](http://www.tre-mt.jus.br) | Cuiabá | Java, JBoss, Wildfly, Tomcat | Oracle | - | Público |
 | Trinix | [Site](http://www.trinix.com.br) | Cuiabá | PHP, Javascript, jQuery, HTML, CSS | MySQL, Oracle, SQL Server| | Privada |
-| UNIVAG | [Site](http://www.univag.edu.br) | Várzea Grande | C#, PHP | - | - | Privada | 
 | UNIC | [Site](http://www.unic.com.br) | Cuiabá | - | - | - | Privada | 
+| UNIVAG | [Site](http://www.univag.edu.br) | Várzea Grande | C#, PHP | - | - | Privada | 
 | Vector Informática | [Site](http://www.vectorinf.com.br) | Cuiabá | Delphi, PHP, Java | - | - | Privada |
 | Webflavia | [Site](http://www.webflavia.com.br) | Cuiabá | - | - | - | Privada |
 | Weeke Aplicativos | [Site](http://www.weeke.com.br) | Cuiabá | - | - | - | Privada |
