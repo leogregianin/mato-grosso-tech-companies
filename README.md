@@ -2,7 +2,7 @@
 
  * As informações deste repositório foram obtidas através dos sites das próprias empresas ou por sites de empregos informados pela própria empresa.
 
- * Contribuições são sempre bem-vindas. Veja o [Guia de Contribuições](CONTRIBUTING.md).
+ * Contribuições são sempre bem-vindas, stars e forks também. Veja o [Guia de Contribuições](CONTRIBUTING.md).
 
 |+Empresa  | Site | Sede | Desenvolvimento | Banco de dados | Cloud | Empresa/Órgão |
 |------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -49,12 +49,13 @@
 | Symetria | [Site](http://www.simetrya.com.br) | Cuiabá | Java, Spring, JSF PrimeFaces, Hibernate, jQuery, Ajax | - | - | Privada |
 | Tham Sistemas | [Site](http://www.tham.com.br) | Cuiabá | Delphi | - | - | Privada |
 | Totem TI | [Site](http://www.totemti.com.br) | Cuiabá | Java, C# | - | - | Privada |
-| Tribunal de Contas | [Site](http://www.tce.mt.gov.br) | Cuiabá | Delphi, PHP, C#, Genexus, Java | - | - | Público |
+| Tribunal de Contas (TCE) | [Site](http://www.tce.mt.gov.br) | Cuiabá | Delphi, PHP, C#, Genexus, Java | - | - | Público |
 | Tribunal de Justiça (TJ) | [Site](http://www.tjmt.jus.br) | Cuiabá | - | - | - | Público |
 | Tribunal Regional do Trabalho (TRT) | [Site](http://www.trt23.jus.br) | Cuiabá | Java, JBoss, Tomcat | - | - | Público |
 | Tribunal Regional Eleitoral (TRE) | [Site](http://www.tre-mt.jus.br) | Cuiabá | Java, JBoss, Wildfly, Tomcat | Oracle | - | Público |
 | Trinix | [Site](http://www.trinix.com.br) | Cuiabá | PHP, Javascript, jQuery, HTML, CSS | MySQL, Oracle, SQL Server| | Privada |
 | UNIVAG | [Site](http://www.univag.edu.br) | Várzea Grande | C#, PHP | - | - | Privada | 
+| UNIC | [Site](http://www.unic.com.br) | Cuiabá | - | - | - | Privada | 
 | Vector Informática | [Site](http://www.vectorinf.com.br) | Cuiabá | Delphi, PHP, Java | - | - | Privada |
 | Webflavia | [Site](http://www.webflavia.com.br) | Cuiabá | - | - | - | Privada |
 | Weeke Aplicativos | [Site](http://www.weeke.com.br) | Cuiabá | - | - | - | Privada |
