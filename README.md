@@ -43,7 +43,7 @@
 | Secretaria de Fazenda (SEFAZ) | [Site](http://www.sefaz.mt.gov.br) | Cuiabá | Java | - | -| Público |
 | SERPRO | [Site](http://www.serpro.gov.br) | Cuiabá | - | - | - | Público |
 | Sizy | [Site](http://www.sizy.com.br) | Várzea Grande | Ruby on Rails | PostgreSQL | - | Privada |
-| Softsul | [Site](http://softsulsistemas.com.br) | Rondonópolis | PHP/Laravel, Javascript/Node/React/React Native/Ionic, Delphi, HTML, CSS, Java | Oracle, MySQL | AWS, DO, Vultr | Privada |
+| Softsul | [Site](http://softsulsistemas.com.br) | Rondonópolis | PHP/Laravel, Javascript/Node/React/React Native/Ionic, Delphi, HTML, CSS, Java | Oracle, MySQL | AWS, Digital Ocean, Vultr | Privada |
 | Symetria | [Site](http://www.simetrya.com.br) | Cuiabá | Java, Spring, JSF PrimeFaces, Hibernate, jQuery, Ajax | - | - | Privada |
 | Tham Sistemas | [Site](http://www.tham.com.br) | Cuiabá | Delphi | - | - | Privada |
 | Totem TI | [Site](http://www.totemti.com.br) | Cuiabá | Java, C# | - | - | Privada |
