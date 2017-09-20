@@ -45,6 +45,7 @@
 | SERPRO | [Site](http://www.serpro.gov.br) | Cuiabá | - | - | - | Público |
 | Sizy | [Site](http://www.sizy.com.br) | Várzea Grande | Ruby on Rails | PostgreSQL | - | Privada |
 | Softsul | [Site](http://softsulsistemas.com.br) | Rondonópolis | PHP/Laravel, Javascript/Node/React/React Native/Ionic, Delphi, HTML, CSS, Java | Oracle, MySQL | AWS, Digital Ocean, Vultr | Privada |
+| Sydy | [Site](http://www.sydy.com.br) | Cuiabá | C#, ASP.NET, ASP.NET Core, Android, Xamarin, VueJS, NodeJS | PostgreSQL, SQL Server, MySQL, MongoDB, SQLite, Firebase | Azure, AWS | Privada |
 | Symetria | [Site](http://www.simetrya.com.br) | Cuiabá | Java, Spring, JSF PrimeFaces, Hibernate, jQuery, Ajax | - | - | Privada |
 | Tham Sistemas | [Site](http://www.tham.com.br) | Cuiabá | Delphi | - | - | Privada |
 | Totem TI | [Site](http://www.totemti.com.br) | Cuiabá | Java, C# | - | - | Privada |
