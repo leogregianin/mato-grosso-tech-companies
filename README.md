@@ -6,7 +6,7 @@
 
 |+Empresa  | Site | Sede | Desenvolvimento | Banco de dados | Cloud | Empresa/Órgão |
 |------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Abaco | [Site](http://www.abaco.com.br) | Cuiabá | Genexus | Oracle | - | Privada |
+| Abaco | [Site](http://www.abaco.com.br) | Cuiabá | Genexus, Angular, Java | Oracle | - | Privada |
 | AgroV | [Site](http://www.agrov.com.br) | Cuiabá | Java, JSF, Hibernate | PostgreSQL | DigitalOcean | Privada |
 | AloW | [Site](http://www.alow.com.br) | Cuiabá | - | - | - | Privada |
 | Angel Sistemas | [Site](http://www.angelsistemas.com.br) | Cuiabá | Delphi, C# | - | - | Privada |
@@ -17,7 +17,7 @@
 | Connecsoft | [Site](http://www.conecsoft.com.br) | Cuiabá | Delphi, C# | - | - | Privada |
 | Connect Sotware | [Site](www.connect.com.vc) | Cuiabá | Delphi, C#, PHP | MySQL | - | Privada |
 | ControlSoft | [Site](http://www.controlsoft.com.br) | Sorriso | - | - | - | Privada |
-| Coplan | [Site](https://www.coplan.srv.br) | Cuiabá | Java | - | - | Privada |
+| Coplan | [Site](https://www.coplan.srv.br) | Cuiabá | Java, Genexus | - | - | Privada |
 | Dropo | [Site](http://www.dropo.me) | Cuiabá | - | - | - | Privada |
 | Duralex | [Site](http://www.duralex.com.br) | Cuiabá | - | - | - | Privada |
 | Efikase | - | Cuiabá | C#, Delphi | - | - | Privada |
@@ -47,6 +47,7 @@
 | Symetria | [Site](http://www.simetrya.com.br) | Cuiabá | Java, Spring, JSF PrimeFaces, Hibernate, jQuery, Ajax | - | - | Privada |
 | Tham Sistemas | [Site](http://www.tham.com.br) | Cuiabá | Delphi | - | - | Privada |
 | Totem TI | [Site](http://www.totemti.com.br) | Cuiabá | Java, C# | - | - | Privada |
+| Tribunal de Contas | [Site](http://www.tce.mt.gov.br) | Cuiabá | Delphi, PHP, C#, Genexus, Java | - | - | Público |
 | Tribunal de Justiça (TJ) | [Site](http://www.tjmt.jus.br) | Cuiabá | - | - | - | Público |
 | Tribunal Regional do Trabalho (TRT) | [Site](http://www.trt23.jus.br) | Cuiabá | Java, JBoss, Tomcat | - | - | Público |
 | Tribunal Regional Eleitoral (TRE) | [Site](http://www.tre-mt.jus.br) | Cuiabá | Java, JBoss, Wildfly, Tomcat | Oracle | - | Público |
@@ -55,4 +56,4 @@
 | Vector Informática | [Site](http://www.vectorinf.com.br) | Cuiabá | Delphi, PHP, Java | - | - | Privada |
 | Webflavia | [Site](http://www.webflavia.com.br) | Cuiabá | - | - | - | Privada |
 | Weeke Aplicativos | [Site](http://www.weeke.com.br) | Cuiabá | - | - | - | Privada |
-| Worx Tecnologia | [Site](http://www.worxtecnologia.com.br/servicos) | Cuiabá | - | - | - | Privada |
+| Worx Tecnologia | [Site](http://www.worxtecnologia.com.br) | Cuiabá | - | - | - | Privada |
