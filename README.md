@@ -2,7 +2,7 @@
 
  * As informações deste repositório foram obtidas através dos sites das próprias empresas ou por sites de empregos informados pela própria empresa.
 
- * Contribuições são sempre bem-vindas. Veja o Guia de contribuições.
+ * Contribuições são sempre bem-vindas. Veja o [Guia de Contribuições](CONTRIBUTING.md).
 
 |+Empresa  | Site | Sede | Desenvolvimento | Banco de dados | Cloud | Empresa/Órgão |
 |------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
