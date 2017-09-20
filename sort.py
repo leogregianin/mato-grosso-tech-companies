@@ -10,7 +10,7 @@ def main():
         s_line = line.lstrip()
         indent = len(line) - len(s_line)
 
-        if any([s_line.startswith(s) for s in ['| '] if s not in ('|-') ]):
+        if any([s_line.startswith(s) for s in ['| '] if s not in ('|+') ]):
             if indent == last_indent:
                 blocks[-1].append(line)
             else:

@@ -4,7 +4,7 @@
 
  * Contribuições são sempre bem-vindas. Faça uma Issue ou um Pull Request para incluir ou corrigir informações das empresas.
 
-|-Empresa  | Site | Sede | Desenvolvimento | Banco de dados | Cloud | Empresa/Órgão |
+|+Empresa  | Site | Sede | Desenvolvimento | Banco de dados | Cloud | Empresa/Órgão |
 |------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Abaco | [Site](http://www.abaco.com.br) | Cuiabá | Java, Genexus | Oracle | - | Privada |
 | AgroV | [Site](http://www.agrov.com.br) | Cuiabá | - | - | - | Privada |
