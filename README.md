@@ -34,7 +34,7 @@
 | MPX | [Site](http://www.mpxbrasil.com.br) | Cuiabá | - | - | - | Privada |
 | MTI | [Site](http://www.mti.mt.gov.br) | Cuiabá | - | - | - | Público |
 | NBS Informática | [Site](http://www.nbsi.com.br) | Cuiabá | Delphi, Java, C# | Oracle | | Privada |
-| Nuvem Tecnologia | [Site](http://www.nuvem.net) | Cuiabá | C#, ASP.NET, ASP.NET Core, Xamarin, React Native |  | Azure, AWS | Privada |
+| Nuvem Tecnologia | [Site](http://www.nuvem.net) | Cuiabá | C#, ASP.NET, ASP.NET Core, Xamarin, React/Redux, Kotlin |  | Azure, AWS | Privada |
 | Odeon Tecnologia | [Site](http://www.odeoninformatica.com.br) | Cuiabá | Delphi | SQL Server | - | Privada |
 | Omega Sistemas | [Site](https://www.omegasistemas.net.br) | Tangará da Serra | Java, Javascript, HTML5, CSS3, Delphi | - | - | Privada |
 | Online Engenharia de Sistemas | [Site](http://www.onlinesistemas.net) | Cuiabá | Delphi | - | - | Privada |
