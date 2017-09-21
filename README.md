@@ -7,6 +7,7 @@
 |+Empresa  | Site | Sede | Desenvolvimento | Banco de dados | Cloud | Empresa/Órgão |
 |------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Abaco | [Site](http://www.abaco.com.br) | Cuiabá | Genexus, Angular, Java | Oracle | - | Privada |
+| AgenSite | [Site](http://www.agensite.com) | Cuiabá | - | - | AWS, Locaweb | Privada |
 | AgroV | [Site](http://www.agrov.com.br) | Cuiabá | Java, JSF, Hibernate | PostgreSQL | Digital Ocean | Privada |
 | AloW | [Site](http://www.alow.com.br) | Cuiabá | - | - | - | Privada |
 | Angel Sistemas | [Site](http://www.angelsistemas.com.br) | Cuiabá | Delphi, C# | - | - | Privada |
@@ -14,6 +15,7 @@
 | Bitline | [Site](http://www.bitline.com.br) | Cuiabá | Delphi, PHP, HTML 5, CSS 3, Javascript, Bootstrap, jQuery | MySQL | | Privada |
 | Blue TI | [Site](http://www.blueti.com.br) | Cuiabá | - | - | - | Privada |
 | Codigo5 | [Site](https://www.codigo5.com.br) | Cuiabá | - | - | - | Privada |
+| Coleta Seletiva .NET| [Site](http://www.coletaseletiva.net.br) | Cuiabá | Javascript/Angular/Ionic, HTML, CSS | - | - | Privada |
 | Connecsoft | [Site](http://www.conecsoft.com.br) | Cuiabá | Delphi, C# | - | - | Privada |
 | Connect Sotware | [Site](www.connect.com.vc) | Cuiabá | Delphi, C#, PHP | MySQL | - | Privada |
 | Consignum | [Site](http://www.consignum.com.br) | Cuiabá | Java, JBoss, JSF, Hibernate | PostgreSQL | - | Privada |
@@ -44,6 +46,7 @@
 | OniQ Tecnologia | [Site](http://oniq.com.br) | Cuiabá | Java, NodeJS, Web, Ionic, iOS, Android, Hardware, Sistemas Embarcados, C/C++, PHP | MySQL, PostgreSQL, Oracle, SQLite3, MongoDB, Firebase | AWS, GCP, Contabo | Privada |
 | Online Engenharia de Sistemas | [Site](http://www.onlinesistemas.net) | Cuiabá | Delphi | - | - | Privada |
 | Prixx Tecnologia | [Site](http://prixxtecnologia.com.br) | Cuiabá | - | - | - | Privada |
+| Procurix | [Site](http://www.procurix.com.br) | Cuiabá | PHP/Zend, HTML, CSS, Javascript | - | - | Privada |
 | RFC Inovações | [Site](http://www.rcfinovacoes.com.br) | Cuiabá | Java, PHP, Javascript, Go | - | AWS | Privada |
 | Secretaria de Fazenda (SEFAZ) | [Site](http://www.sefaz.mt.gov.br) | Cuiabá | Java | - | -| Público |
 | SERPRO | [Site](http://www.serpro.gov.br) | Cuiabá | - | - | - | Público |
@@ -53,6 +56,7 @@
 | Symetria | [Site](http://www.simetrya.com.br) | Cuiabá | Java, Spring, JSF PrimeFaces, Hibernate, jQuery, Ajax | - | - | Privada |
 | Tham Sistemas | [Site](http://www.tham.com.br) | Cuiabá | Delphi | - | - | Privada |
 | Totem TI | [Site](http://www.totemti.com.br) | Cuiabá | Java, C# | - | - | Privada |
+| TreinaTOM | [Site](http://www.treinatom.com.br) | Sorriso | - | - | - | Privada |
 | Tribunal de Contas (TCE) | [Site](http://www.tce.mt.gov.br) | Cuiabá | Delphi, PHP, C#, Genexus, Java | - | - | Público |
 | Tribunal de Justiça (TJ) | [Site](http://www.tjmt.jus.br) | Cuiabá | - | - | - | Público |
 | Tribunal Regional do Trabalho (TRT) | [Site](http://www.trt23.jus.br) | Cuiabá | Java, JBoss, Tomcat | - | - | Público |
