@@ -8,6 +8,7 @@
 |------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Abaco | [Site](http://www.abaco.com.br) | Cuiabá | Genexus, Angular, Java | Oracle | - | Privada |
 | AgenSite | [Site](http://www.agensite.com) | Cuiabá | - | - | AWS, Locaweb | Privada |
+| AgriRent | [Site](http://www.agrirent.com.br) | Sinop | PHP, Symfony, Doctrine, Vue.js | MySQL | Locaweb | Privada |
 | AgroV | [Site](http://www.agrov.com.br) | Cuiabá | Java, JSF, Hibernate | PostgreSQL | Digital Ocean | Privada |
 | AloW | [Site](http://www.alow.com.br) | Cuiabá | - | - | - | Privada |
 | Angel Sistemas | [Site](http://www.angelsistemas.com.br) | Cuiabá | Delphi, C# | - | - | Privada |
@@ -29,7 +30,7 @@
 | Expert BI | [Site](http://www.expertbi.com.br) | Cuiabá | Qlik View | SQL Server | - | Privada |
 | Harmony Sistemas | [Site](http://www.harmonysistemas.com.br) | Cuiabá | - | - | - | Privada |
 | Hetosoft | [Site](http://www.hetosoft.com.br) | Várzea Grande | Delphi | - | - | Privada |
-| Inovabit | [Site](http://www.inovabit.com.br) | Cuiabá | - | - | - | Privada | 
+| Inovabit | [Site](http://www.inovabit.com.br) | Cuiabá | - | - | - | Privada |
 | Intelecto Sistemas  | [Site](http://www.intelecto.com.br) | Cuiabá | Delphi, Typescript/Ionic, Java/Android, PHP/Laravel | SQL Anywhere, SQL Server, Oracle, SQLite3, MySQL | AWS, Locaweb | Privada |
 | Junta Comercial (Jucemat) | [Site](http://www.jucemat.mt.gov.br) | Cuiabá | - | - | - | Público |
 | JMJ | [Site](https://www.jmjsistemas.com.br) | Sinop | Java, Javascript | - | - | Privada |
@@ -38,8 +39,8 @@
 | KS Tecnologia | [Site](http://kstecnologia.com.br) | Cuiabá | - | - | - | Privada |
 | Lotus Sistemas | [Site](http://www.lotussistemas.com) | Sinop | C# | SQL Server | - | Privada |
 | MBoss | [Site](http://www.mboss.com.br) | Sinop | Java, Android | - | - | Privada |
-| MCN Sistemas | [Site](http://www.mcnsistemas.com.br) | Cuiabá | Delphi | - | - | Privada | 
-| Movere Software | [Site](https://moveresoftware.com) | Cuiabá | C# | SQL Server | - | Privada | 
+| MCN Sistemas | [Site](http://www.mcnsistemas.com.br) | Cuiabá | Delphi | - | - | Privada |
+| Movere Software | [Site](https://moveresoftware.com) | Cuiabá | C# | SQL Server | - | Privada |
 | MPX | [Site](http://www.mpxbrasil.com.br) | Cuiabá | - | - | - | Privada |
 | Multiware | [Site](http://www.multiwaretecnologia.com.br) | Sinop | Delphi, Android, React-Native, Python, PHP, C, Javascript | PostgreSQL, MySQL | - | Privada |
 | MTI | [Site](http://www.mti.mt.gov.br) | Cuiabá | - | - | - | Público |
@@ -66,8 +67,8 @@
 | Tribunal Regional do Trabalho (TRT) | [Site](http://www.trt23.jus.br) | Cuiabá | Java, JBoss, Tomcat | - | - | Público |
 | Tribunal Regional Eleitoral (TRE) | [Site](http://www.tre-mt.jus.br) | Cuiabá | Java, JBoss, Wildfly, Tomcat | Oracle | - | Público |
 | Trinix | [Site](http://www.trinix.com.br) | Cuiabá | PHP, Javascript, jQuery, HTML, CSS | MySQL, Oracle, SQL Server| | Privada |
-| UNIC | [Site](http://www.unic.com.br) | Cuiabá | - | - | - | Privada | 
-| UNIVAG | [Site](http://www.univag.edu.br) | Várzea Grande | C#, PHP | SQL Server | - | Privada | 
+| UNIC | [Site](http://www.unic.com.br) | Cuiabá | - | - | - | Privada |
+| UNIVAG | [Site](http://www.univag.edu.br) | Várzea Grande | C#, PHP | SQL Server | - | Privada |
 | Vector Informática | [Site](http://www.vectorinf.com.br) | Cuiabá | Delphi, PHP, Java | - | - | Privada |
 | Webflavia | [Site](http://www.webflavia.com.br) | Cuiabá | - | - | - | Privada |
 | Weeke Aplicativos | [Site](http://www.weeke.com.br) | Cuiabá | - | - | - | Privada |
