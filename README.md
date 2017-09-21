@@ -21,12 +21,12 @@
 | Coplan | [Site](https://www.coplan.srv.br) | Cuiabá | Java, Genexus | - | - | Privada |
 | Dropo | [Site](http://www.dropo.me) | Cuiabá | - | - | - | Privada |
 | Duralex | [Site](http://www.duralex.com.br) | Cuiabá | Java, C#, Delphi, HTML, CSS, Javascript | Firebird | - | Privada |
-| Efikase | - | Cuiabá | C#, Delphi | - | - | Privada |
+| Efikase | - | Cuiabá | C#, Delphi | Oracle | - | Privada |
 | Eptus Corporation | [Site](http://www.brasil.eptus.com.br) | Cuiabá | Delphi, PHP | - | - | Privada |
 | Estuda.com | [Site](http://www.estuda.com) | Cuiabá | - | - | - | Privada |
 | Expert BI | [Site](http://www.expertbi.com.br) | Cuiabá | Qlik View | SQL Server | - | Privada |
 | Harmony Sistemas | [Site](http://www.harmonysistemas.com.br) | Cuiabá | - | - | - | Privada |
-| Hetosoft | [Site](http://www.hetosoft.com.br) | Várzea Grade | Delphi | - | - | Privada |
+| Hetosoft | [Site](http://www.hetosoft.com.br) | Várzea Grande | Delphi | - | - | Privada |
 | Inovabit | [Site](http://www.inovabit.com.br) | Cuiabá | - | - | - | Privada | 
 | Intelecto Sistemas  | [Site](http://www.intelecto.com.br) | Cuiabá | Delphi, Typescript/Ionic, Java/Android, PHP/Laravel | SQL Anywhere, SQL Server, Oracle, SQLite3, MySQL | AWS, Locaweb | Privada |
 | Junta Comercial (Jucemat) | [Site](http://www.jucemat.mt.gov.br) | Cuiabá | - | - | - | Público |
