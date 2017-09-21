@@ -1,15 +1,12 @@
-# Contribuições
+# ContribuiÃ§Ãµes
 
-Suas contribuições são sempre bem-vindas!
+Suas contribuiÃ§Ãµes sÃ£o sempre bem-vindas!
 
-## Guia para contribuições para Issues
+* Informe o nome da empresa, site (inserir http:// senÃ£o o GitHub buga), cidade sede, as tecnologias em que desenvolve software, o banco de dados utilizado, a cloud e se Ã© uma empresa pÃºblica ou privada.
+* Informe o link da fonte dessa informaÃ§Ã£o.
 
-* Informe o nome da empresa, site, cidade sede, as tecnologias em que desenvolve software, o banco de dados utilizado, a cloud e se é uma empresa pública ou privada.
-* Informe o link da fonte dessa informação.
+## Guia para contribuiÃ§Ãµes para Pull Request
 
-## Guia para contribuições para Pull Request
-
-* Adicione a empresa para cada Pull Request.
+* Adicione uma empresa para cada Pull Request.
 * Adicione a empresa seguindo a estrutura do Markdown do GitHub.
-* Informe um link com a fonte dessa informação.
-* Após a alteração do README.md, abra seu terminal preferido e execute: ```python sort.py``` para ordenação alfabética dos nomes das empresas.
+* ApÃ³s a alteraÃ§Ã£o do README.md, abra seu terminal preferido e execute: ```python sort.py``` para ordenaÃ§Ã£o alfabÃ©tica dos nomes das empresas.
