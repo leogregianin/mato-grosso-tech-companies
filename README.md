@@ -30,8 +30,8 @@
 | Inovabit | [Site](http://www.inovabit.com.br) | Cuiabá | - | - | - | Privada | 
 | Intelecto Sistemas  | [Site](http://www.intelecto.com.br) | Cuiabá | Delphi, Typescript/Ionic, Java/Android, PHP/Laravel | SQL Anywhere, SQL Server, Oracle, SQLite3, MySQL | AWS, Locaweb | Privada |
 | Junta Comercial (Jucemat) | [Site](http://www.jucemat.mt.gov.br) | Cuiabá | - | - | - | Público |
-| Kpersoft | [Site](http://www.kpersoft.com.br) | Rondonópolis | - | - | - | Privada |
 | Kastersoft | [Site](http://www.kasterweb.com.br) | Cuiabá | PHP/Zend | MySQL | - | Privada |
+| Kpersoft | [Site](http://www.kpersoft.com.br) | Rondonópolis | - | - | - | Privada |
 | KS Tecnologia | [Site](http://kstecnologia.com.br) | Cuiabá | - | - | - | Privada |
 | MCN Sistemas | [Site](http://www.mcnsistemas.com.br) | Cuiabá | Delphi | - | - | Privada | 
 | Movere Software | [Site](https://moveresoftware.com) | Cuiabá | C# | SQL Server | - | Privada | 
