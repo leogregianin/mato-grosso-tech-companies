@@ -62,7 +62,7 @@
 | Totem TI | [Site](http://www.totemti.com.br) | Cuiabá | Java, C# | - | - | Privada |
 | TreinaTOM | [Site](http://www.treinatom.com.br) | Sorriso | - | - | - | Privada |
 | Tribunal de Contas (TCE) | [Site](http://www.tce.mt.gov.br) | Cuiabá | Delphi, PHP, C#, Genexus, Java | - | - | Público |
-| Tribunal de Justiça (TJ) | [Site](http://www.tjmt.jus.br) | Cuiabá | - | - | - | Público |
+| Tribunal de Justiça (TJ) | [Site](http://www.tjmt.jus.br) | Cuiabá | C#, ASP.NET, ASP.NET Core, Java, HTML5, CSS3, jQuery, Angular2+, React | SQL Server, PostgreSQL, MongoDB | - | Público |
 | Tribunal Regional do Trabalho (TRT) | [Site](http://www.trt23.jus.br) | Cuiabá | Java, JBoss, Tomcat | - | - | Público |
 | Tribunal Regional Eleitoral (TRE) | [Site](http://www.tre-mt.jus.br) | Cuiabá | Java, JBoss, Wildfly, Tomcat | Oracle | - | Público |
 | Trinix | [Site](http://www.trinix.com.br) | Cuiabá | PHP, Javascript, jQuery, HTML, CSS | MySQL, Oracle, SQL Server| | Privada |
