@@ -7,7 +7,7 @@
 |+Empresa  | Site | Sede | Desenvolvimento | Banco de dados | Cloud | Empresa/Órgão |
 |------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Abaco | [Site](http://www.abaco.com.br) | Cuiabá | Genexus, Angular, Java | Oracle | - | Privada |
-| AgroV | [Site](http://www.agrov.com.br) | Cuiabá | Java, JSF, Hibernate | PostgreSQL | DigitalOcean | Privada |
+| AgroV | [Site](http://www.agrov.com.br) | Cuiabá | Java, JSF, Hibernate | PostgreSQL | Digital Ocean | Privada |
 | AloW | [Site](http://www.alow.com.br) | Cuiabá | - | - | - | Privada |
 | Angel Sistemas | [Site](http://www.angelsistemas.com.br) | Cuiabá | Delphi, C# | - | - | Privada |
 | Axys Tecnologia | [Site](http://www.axystecnologia.com.br) | Cuiabá | C# | - | - | Privada |
@@ -20,19 +20,21 @@
 | ControlSoft | [Site](http://www.controlsoft.com.br) | Sorriso | - | - | - | Privada |
 | Coplan | [Site](https://www.coplan.srv.br) | Cuiabá | Java, Genexus | - | - | Privada |
 | Dropo | [Site](http://www.dropo.me) | Cuiabá | - | - | - | Privada |
-| Duralex | [Site](http://www.duralex.com.br) | Cuiabá | - | - | - | Privada |
+| Duralex | [Site](http://www.duralex.com.br) | Cuiabá | Java, C#, Delphi, HTML, CSS, Javascript | Firebird | - | Privada |
 | Efikase | - | Cuiabá | C#, Delphi | - | - | Privada |
-| Eptus Corporation | [Site](http://www.brasil.eptus.com.br) | Cuiabá | - | - | - | Privada |
+| Eptus Corporation | [Site](http://www.brasil.eptus.com.br) | Cuiabá | Delphi, PHP | - | - | Privada |
 | Estuda.com | [Site](http://www.estuda.com) | Cuiabá | - | - | - | Privada |
 | Expert BI | [Site](http://www.expertbi.com.br) | Cuiabá | Qlik View | SQL Server | - | Privada |
 | Harmony Sistemas | [Site](http://www.harmonysistemas.com.br) | Cuiabá | - | - | - | Privada |
 | Hetosoft | [Site](http://www.hetosoft.com.br) | Várzea Grade | Delphi | - | - | Privada |
 | Inovabit | [Site](http://www.inovabit.com.br) | Cuiabá | - | - | - | Privada | 
-| Intelecto Sistemas  | [Site](http://www.intelecto.com.br) | Cuiabá | Delphi, Typescript/Ionic, Java/Android, PHP/Laravel | SQL Anywhere, SQL Server, Oracle, MySQL | AWS | Privada |
+| Intelecto Sistemas  | [Site](http://www.intelecto.com.br) | Cuiabá | Delphi, Typescript/Ionic, Java/Android, PHP/Laravel | SQL Anywhere, SQL Server, Oracle, SQLite3, MySQL | AWS, Locaweb | Privada |
 | Junta Comercial (Jucemat) | [Site](http://www.jucemat.mt.gov.br) | Cuiabá | - | - | - | Público |
-| Kpersoft | [Site](http://www.kpersoft.com.br) | Rondonópolis | | - | - | Privada |
+| Kpersoft | [Site](http://www.kpersoft.com.br) | Rondonópolis | - | - | - | Privada |
+| Kastersoft | [Site](http://www.kasterweb.com.br) | Cuiabá | PHP/Zend | MySQL | - | Privada |
 | KS Tecnologia | [Site](http://kstecnologia.com.br) | Cuiabá | - | - | - | Privada |
 | MCN Sistemas | [Site](http://www.mcnsistemas.com.br) | Cuiabá | Delphi | - | - | Privada | 
+| Movere Software | [Site](https://moveresoftware.com) | Cuiabá | C# | SQL Server | - | Privada | 
 | MPX | [Site](http://www.mpxbrasil.com.br) | Cuiabá | - | - | - | Privada |
 | MTI | [Site](http://www.mti.mt.gov.br) | Cuiabá | - | - | - | Público |
 | NBS Informática | [Site](http://www.nbsi.com.br) | Cuiabá | Delphi, Java, C# | Oracle | | Privada |
@@ -45,7 +47,7 @@
 | RFC Inovações | [Site](http://www.rcfinovacoes.com.br) | Cuiabá | Java, PHP, Javascript, Go | - | AWS | Privada |
 | Secretaria de Fazenda (SEFAZ) | [Site](http://www.sefaz.mt.gov.br) | Cuiabá | Java | - | -| Público |
 | SERPRO | [Site](http://www.serpro.gov.br) | Cuiabá | - | - | - | Público |
-| Sizy | [Site](http://www.sizy.com.br) | Várzea Grande | Ruby on Rails | PostgreSQL | - | Privada |
+| Sizy | [Site](http://www.sizy.com.br) | Várzea Grande | Ruby/Rails | PostgreSQL | - | Privada |
 | Softsul | [Site](http://softsulsistemas.com.br) | Rondonópolis | PHP/Laravel, Javascript/Node/React/React Native/Ionic, Delphi, HTML, CSS, Java | Oracle, MySQL | AWS, Digital Ocean, Vultr | Privada |
 | Sydy | [Site](http://www.sydy.com.br) | Cuiabá | C#, ASP.NET, ASP.NET Core, Android, Xamarin, VueJS, NodeJS | PostgreSQL, SQL Server, MySQL, MongoDB, SQLite, Firebase | Azure, AWS | Privada |
 | Symetria | [Site](http://www.simetrya.com.br) | Cuiabá | Java, Spring, JSF PrimeFaces, Hibernate, jQuery, Ajax | - | - | Privada |
