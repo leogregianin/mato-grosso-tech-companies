@@ -32,7 +32,7 @@
 | Inovabit | [Site](http://www.inovabit.com.br) | Cuiabá | - | - | - | Privada | 
 | Intelecto Sistemas  | [Site](http://www.intelecto.com.br) | Cuiabá | Delphi, Typescript/Ionic, Java/Android, PHP/Laravel | SQL Anywhere, SQL Server, Oracle, SQLite3, MySQL | AWS, Locaweb | Privada |
 | Junta Comercial (Jucemat) | [Site](http://www.jucemat.mt.gov.br) | Cuiabá | - | - | - | Público |
-| JMJ | [Site](https://www.jmjsistemas.com.br) | Sinop | Java, js | - | - | Privada |
+| JMJ | [Site](https://www.jmjsistemas.com.br) | Sinop | Java, Javascript | - | - | Privada |
 | Kastersoft | [Site](http://www.kasterweb.com.br) | Cuiabá | PHP/Zend | MySQL | - | Privada |
 | Kpersoft | [Site](http://www.kpersoft.com.br) | Rondonópolis | - | - | - | Privada |
 | KS Tecnologia | [Site](http://kstecnologia.com.br) | Cuiabá | - | - | - | Privada |
@@ -41,12 +41,12 @@
 | MCN Sistemas | [Site](http://www.mcnsistemas.com.br) | Cuiabá | Delphi | - | - | Privada | 
 | Movere Software | [Site](https://moveresoftware.com) | Cuiabá | C# | SQL Server | - | Privada | 
 | MPX | [Site](http://www.mpxbrasil.com.br) | Cuiabá | - | - | - | Privada |
-| Multiware | [Site](multiwaretecnologia.com.br) | Sinop | Delphi, Android, React-Native, Python, PHP, C, javascript | Postgress, Mysql | - | Privada |
+| Multiware | [Site](http://www.multiwaretecnologia.com.br) | Sinop | Delphi, Android, React-Native, Python, PHP, C, Javascript | PostgreSQL, MySQL | - | Privada |
 | MTI | [Site](http://www.mti.mt.gov.br) | Cuiabá | - | - | - | Público |
 | NBS Informática | [Site](http://www.nbsi.com.br) | Cuiabá | Delphi, Java, C# | Oracle | | Privada |
 | Nuvem Tecnologia | [Site](http://www.nuvem.net) | Cuiabá | C#, ASP.NET, ASP.NET Core, Xamarin, React/Redux, Kotlin |  | Azure, AWS | Privada |
 | Odeon Tecnologia | [Site](http://www.odeoninformatica.com.br) | Cuiabá | Delphi | SQL Server | - | Privada |
-| Omega Sistemas | [Site](https://www.omegasistemas.net.br) | Tangará da Serra | Java, Javascript, HTML5, CSS3, Delphi | - | - | Privada |
+| Omega Sistemas | [Site](https://omegasistemas.net.br) | Tangará da Serra | Java, Javascript, HTML5, CSS3, Delphi | - | - | Privada |
 | OniQ Tecnologia | [Site](http://oniq.com.br) | Cuiabá | Java, NodeJS, Web, Ionic, iOS, Android, Hardware, Sistemas Embarcados, C/C++, PHP | MySQL, PostgreSQL, Oracle, SQLite3, MongoDB, Firebase | AWS, GCP, Contabo | Privada |
 | Online Engenharia de Sistemas | [Site](http://www.onlinesistemas.net) | Cuiabá | Delphi | - | - | Privada |
 | Prixx Tecnologia | [Site](http://prixxtecnologia.com.br) | Cuiabá | - | - | - | Privada |
