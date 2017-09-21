@@ -50,7 +50,7 @@
 | RFC Inovações | [Site](http://www.rcfinovacoes.com.br) | Cuiabá | Java, PHP, Javascript, Go | - | AWS | Privada |
 | Secretaria de Fazenda (SEFAZ) | [Site](http://www.sefaz.mt.gov.br) | Cuiabá | Java | - | -| Público |
 | SERPRO | [Site](http://www.serpro.gov.br) | Cuiabá | - | - | - | Público |
-| Sizy | [Site](http://www.sizy.com.br) | Várzea Grande | Ruby/Rails | PostgreSQL | - | Privada |
+| Sizy | [Site](http://www.sizy.com.br) | Várzea Grande | Ruby/Rails, PHP | PostgreSQL, MySQL, SQL Server | - | Privada |
 | Softsul | [Site](http://softsulsistemas.com.br) | Rondonópolis | PHP/Laravel, Javascript/Node/React/React Native/Ionic, Delphi, HTML, CSS, Java | Oracle, MySQL | AWS, Digital Ocean, Vultr | Privada |
 | Sydy | [Site](http://www.sydy.com.br) | Cuiabá | C#, ASP.NET, ASP.NET Core, Android, Xamarin, VueJS, NodeJS | PostgreSQL, SQL Server, MySQL, MongoDB, SQLite, Firebase | Azure, AWS | Privada |
 | Symetria | [Site](http://www.simetrya.com.br) | Cuiabá | Java, Spring, JSF PrimeFaces, Hibernate, jQuery, Ajax | - | - | Privada |
