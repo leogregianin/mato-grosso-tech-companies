@@ -17,7 +17,7 @@
 | Codigo5 | [Site](https://www.codigo5.com.br) | Cuiabá | - | - | - | Privada |
 | Coleta Seletiva .NET| [Site](http://www.coletaseletiva.net.br) | Cuiabá | Javascript/Angular/Ionic, HTML, CSS | - | - | Privada |
 | Connecsoft | [Site](http://www.conecsoft.com.br) | Cuiabá | Delphi, C# | - | - | Privada |
-| Connect Sotware | [Site](www.connect.com.vc) | Cuiabá | Delphi, C#, PHP | MySQL | - | Privada |
+| Connect Sotware | [Site](http://www.connect.com.vc) | Cuiabá | Delphi, C#, PHP | MySQL | - | Privada |
 | Consignum | [Site](http://www.consignum.com.br) | Cuiabá | Java, JBoss, JSF, Hibernate | PostgreSQL | - | Privada |
 | ControlSoft | [Site](http://www.controlsoft.com.br) | Sorriso | - | - | - | Privada |
 | Coplan | [Site](https://www.coplan.srv.br) | Cuiabá | Java, Genexus | - | - | Privada |
