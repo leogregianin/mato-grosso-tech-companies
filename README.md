@@ -6,7 +6,7 @@
 
 |+Empresa  | Site | Sede | Desenvolvimento | Banco de dados | Cloud | Empresa/Órgão |
 |------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Abaco | [Site](http://www.abaco.com.br) | Cuiabá | Genexus, Angular, Java | Oracle | - | Privada |
+| Abaco | [Site](http://www.abaco.com.br) | Cuiabá | Genexus, Javascrip/Angular, Java | Oracle | - | Privada |
 | AgenSite | [Site](http://www.agensite.com) | Cuiabá | - | - | AWS, Locaweb | Privada |
 | AgriRent | [Site](http://www.agrirent.com.br) | Sinop | PHP, Symfony, Doctrine, Vue.js | MySQL | Locaweb | Privada |
 | AgroV | [Site](http://www.agrov.com.br) | Cuiabá | Java, JSF, Hibernate | PostgreSQL | Digital Ocean | Privada |
@@ -15,7 +15,7 @@
 | Axys Tecnologia | [Site](http://www.axystecnologia.com.br) | Cuiabá | C# | - | - | Privada |
 | Bitline | [Site](http://www.bitline.com.br) | Cuiabá | Delphi, PHP, HTML 5, CSS 3, Javascript, Bootstrap, jQuery | MySQL | | Privada |
 | Blue TI | [Site](http://www.blueti.com.br) | Cuiabá | - | - | - | Privada |
-| Codigo5 | [Site](https://www.codigo5.com.br) | Cuiabá | - | - | - | Privada |
+| Codigo5 | [Site](https://www.codigo5.com.br) | Cuiabá | Ruby/Rails, Javascript/React/React Native | - | - | Privada |
 | Coleta Seletiva .NET| [Site](http://www.coletaseletiva.net.br) | Cuiabá | Javascript/Angular/Ionic, HTML, CSS | - | - | Privada |
 | Connecsoft | [Site](http://www.conecsoft.com.br) | Cuiabá | Delphi, C# | - | - | Privada |
 | Connect Sotware | [Site](http://www.connect.com.vc) | Cuiabá | Delphi, C#, PHP | MySQL | - | Privada |
@@ -50,6 +50,7 @@
 | Omega Sistemas | [Site](https://omegasistemas.net.br) | Tangará da Serra | Java, Javascript, HTML5, CSS3, Delphi | - | - | Privada |
 | OniQ Tecnologia | [Site](http://oniq.com.br) | Cuiabá | Java, NodeJS, Web, Ionic, iOS, Android, Hardware, Sistemas Embarcados, C/C++, PHP | MySQL, PostgreSQL, Oracle, SQLite3, MongoDB, Firebase | AWS, GCP, Contabo | Privada |
 | Online Engenharia de Sistemas | [Site](http://www.onlinesistemas.net) | Cuiabá | Delphi | - | - | Privada |
+| Posithividades | [Site](http://www.posithividades.com.br) | Cuiabá/Balneário Camboriú | Javascript/Ionic | Firebase | GCP | Privada |
 | Prixx Tecnologia | [Site](http://prixxtecnologia.com.br) | Cuiabá | - | - | - | Privada |
 | Procurix | [Site](http://www.procurix.com.br) | Cuiabá | PHP/Zend, HTML, CSS, Javascript | - | - | Privada |
 | RFC Inovações | [Site](http://www.rcfinovacoes.com.br) | Cuiabá | Java, PHP, Javascript, Go | - | AWS | Privada |
