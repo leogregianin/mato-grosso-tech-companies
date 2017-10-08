@@ -1,7 +1,9 @@
 # Empresas e startups que desenvolvem software no Estado do Mato Grosso (Brasil) e suas tecnologias
 
  * As informações deste repositório foram obtidas através dos sites das próprias empresas ou por sites de empregos informados pela própria empresa.
-
+ 
+ * Este repositório tem por objetivo listar todas as empresas/startups que produzem software no Estado, seja no desenvolvimento interno ou outsourcing para que sirva como um guia para apoios à eventos ou procurar trabalhos.
+ 
  * Contribuições são sempre bem-vindas, stars e forks também. :star::star::star: Veja o [Guia de Contribuições](CONTRIBUTING.md).
 
 |+Empresa  | Site | Sede | Desenvolvimento | Banco de dados | Cloud | Empresa/Órgão |
