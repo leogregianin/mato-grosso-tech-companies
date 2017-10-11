@@ -10,12 +10,12 @@
 |------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Abaco | [Site](http://www.abaco.com.br) | Cuiabá | Genexus, Javascript, Angular, Java | Oracle | - | Privada |
 | AgenSite | [Site](http://www.agensite.com) | Cuiabá | - | - | AWS, Locaweb | Privada |
-| AgriRent | [Site](http://www.agrirent.com.br) | Sinop | PHP, Symfony, Doctrine, Vue.js | MySQL | Locaweb | Privada |
+| AgriRent | [Site](http://www.agrirent.com.br) | Sinop | PHP, Symfony, Doctrine, Vue | MySQL | Locaweb | Privada |
 | AgroV | [Site](http://www.agrov.com.br) | Cuiabá | Java, JSF, Hibernate | PostgreSQL | Digital Ocean | Privada |
 | AloW | [Site](http://www.alow.com.br) | Cuiabá | - | - | - | Privada |
 | Angel Sistemas | [Site](http://www.angelsistemas.com.br) | Cuiabá | Delphi, C# | - | - | Privada |
 | Axys Tecnologia | [Site](http://www.axystecnologia.com.br) | Cuiabá | C# | - | - | Privada |
-| Bitline | [Site](http://www.bitline.com.br) | Cuiabá | Delphi, PHP, HTML 5, CSS 3, Javascript, Bootstrap, jQuery | MySQL | | Privada |
+| Bitline | [Site](http://www.bitline.com.br) | Cuiabá | Delphi, PHP, HTML, CSS, Javascript, Bootstrap, jQuery | MySQL | | Privada |
 | Blue TI | [Site](http://www.blueti.com.br) | Cuiabá | - | - | - | Privada |
 | Codigo5 | [Site](https://www.codigo5.com.br) | Cuiabá | Ruby, Ruby on Rails, Javascript, React, React Native | - | - | Privada |
 | Coleta Seletiva .NET| [Site](http://www.coletaseletiva.net.br) | Cuiabá | Javascript, Angular, Ionic, HTML, CSS | - | - | Privada |
@@ -50,7 +50,7 @@
 | NBS Informática | [Site](http://www.nbsi.com.br) | Cuiabá | Delphi, Java, C# | Oracle | | Privada |
 | Nuvem Tecnologia | [Site](http://www.nuvem.net) | Cuiabá | C#, ASP.NET, ASP.NET Core, Xamarin, React, Redux, Kotlin |  | Azure, AWS | Privada |
 | Odeon Tecnologia | [Site](http://www.odeoninformatica.com.br) | Cuiabá | Delphi | SQL Server | - | Privada |
-| Omega Sistemas | [Site](https://omegasistemas.net.br) | Tangará da Serra | Java, Javascript, HTML5, CSS3, Delphi | - | - | Privada |
+| Omega Sistemas | [Site](https://omegasistemas.net.br) | Tangará da Serra | Java, Javascript, HTML, CSS, Delphi | - | - | Privada |
 | OniQ Tecnologia | [Site](http://oniq.com.br) | Cuiabá | Java, NodeJS, Web, Ionic, iOS, Android, Hardware, Sistemas Embarcados, C, C++, PHP | MySQL, PostgreSQL, Oracle, SQLite3, MongoDB, Firebase | AWS, GCP, Contabo | Privada |
 | Online Engenharia de Sistemas | [Site](http://www.onlinesistemas.net) | Cuiabá | Delphi | - | - | Privada |
 | Posithividades | [Site](http://www.posithividades.com.br) | Cuiabá/Balneário Camboriú | Javascript, Ionic | Firebase | GCP | Privada |
@@ -61,13 +61,13 @@
 | SERPRO | [Site](http://www.serpro.gov.br) | Cuiabá | - | - | - | Público |
 | Sizy | [Site](http://www.sizy.com.br) | Várzea Grande | Ruby, Ruby on Rails, PHP | PostgreSQL, MySQL, SQL Server | - | Privada |
 | Softsul | [Site](http://softsulsistemas.com.br) | Rondonópolis | PHP, Laravel, Javascript, NodeJS, React, React Native, Ionic, Delphi, HTML, CSS, Java | Oracle, MySQL | AWS, Digital Ocean, Vultr | Privada |
-| Sydy | [Site](http://www.sydy.com.br) | Cuiabá | C#, ASP.NET, ASP.NET Core, Android, Xamarin, VueJS, NodeJS | PostgreSQL, SQL Server, MySQL, MongoDB, SQLite, Firebase | Azure, AWS | Privada |
-| Symetria | [Site](http://www.simetrya.com.br) | Cuiabá | Java, Spring, JSF PrimeFaces, Hibernate, jQuery, Ajax | - | - | Privada |
+| Sydy | [Site](http://www.sydy.com.br) | Cuiabá | C#, ASP.NET, ASP.NET Core, Android, Xamarin, Vue, NodeJS | PostgreSQL, SQL Server, MySQL, MongoDB, SQLite, Firebase | Azure, AWS | Privada |
+| Symetria | [Site](http://www.simetrya.com.br) | Cuiabá | Java, Spring, JSF, Hibernate, jQuery, Ajax | - | - | Privada |
 | Tham Sistemas | [Site](http://www.tham.com.br) | Cuiabá | Delphi | - | - | Privada |
 | Totem TI | [Site](http://www.totemti.com.br) | Cuiabá | Java, C# | - | - | Privada |
 | TreinaTOM | [Site](http://www.treinatom.com.br) | Sorriso | - | - | - | Privada |
 | Tribunal de Contas (TCE) | [Site](http://www.tce.mt.gov.br) | Cuiabá | Delphi, PHP, C#, Genexus, Java | - | - | Público |
-| Tribunal de Justiça (TJ) | [Site](http://www.tjmt.jus.br) | Cuiabá | C#, ASP.NET, ASP.NET Core, Java, HTML5, CSS3, jQuery, Angular2+, React | SQL Server, PostgreSQL, MongoDB | - | Público |
+| Tribunal de Justiça (TJ) | [Site](http://www.tjmt.jus.br) | Cuiabá | C#, ASP.NET, ASP.NET Core, Java, HTML, CSS, jQuery, Angular, React | SQL Server, PostgreSQL, MongoDB | - | Público |
 | Tribunal Regional do Trabalho (TRT) | [Site](http://www.trt23.jus.br) | Cuiabá | Java, JBoss, Tomcat | - | - | Público |
 | Tribunal Regional Eleitoral (TRE) | [Site](http://www.tre-mt.jus.br) | Cuiabá | Java, JBoss, Wildfly, Tomcat | Oracle | - | Público |
 | Trinix | [Site](http://www.trinix.com.br) | Cuiabá | PHP, Javascript, jQuery, HTML, CSS | MySQL, Oracle, SQL Server| | Privada |
