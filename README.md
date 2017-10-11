@@ -27,6 +27,7 @@
 | Dropo | [Site](http://www.dropo.me) | Cuiabá | - | - | - | Privada |
 | Duralex | [Site](http://www.duralex.com.br) | Cuiabá | Java, C#, Delphi, HTML, CSS, Javascript | Firebird | - | Privada |
 | Efikase | - | Cuiabá | C#, Delphi | Oracle | - | Privada |
+| Ello tecnologia | [Site](http://www.ellotecnologia.net.br) | Alta Floresta | Delphi, Android, Python, Javascript, PHP/Yii | Firebird, Postgres | - | Privada |
 | Eptus Corporation | [Site](http://www.brasil.eptus.com.br) | Cuiabá | Delphi, PHP | - | - | Privada |
 | Estuda.com | [Site](http://www.estuda.com) | Cuiabá | - | - | - | Privada |
 | Expert BI | [Site](http://www.expertbi.com.br) | Cuiabá | Qlik View | SQL Server | - | Privada |
@@ -34,8 +35,8 @@
 | Hetosoft | [Site](http://www.hetosoft.com.br) | Várzea Grande | Delphi | - | - | Privada |
 | Inovabit | [Site](http://www.inovabit.com.br) | Cuiabá | - | - | - | Privada |
 | Intelecto Sistemas  | [Site](http://www.intelecto.com.br) | Cuiabá | Delphi, Typescript/Ionic, Java/Android, PHP/Laravel | SQL Anywhere, SQL Server, Oracle, SQLite3, MySQL | AWS, Locaweb | Privada |
-| Junta Comercial (Jucemat) | [Site](http://www.jucemat.mt.gov.br) | Cuiabá | - | - | - | Público |
 | JMJ | [Site](https://www.jmjsistemas.com.br) | Sinop | Java, Javascript | - | - | Privada |
+| Junta Comercial (Jucemat) | [Site](http://www.jucemat.mt.gov.br) | Cuiabá | - | - | - | Público |
 | Kasterweb | [Site](http://www.kasterweb.com.br) | Cuiabá | PHP/Zend | MySQL | - | Privada |
 | Kpersoft | [Site](http://www.kpersoft.com.br) | Rondonópolis | - | - | - | Privada |
 | KS Tecnologia | [Site](http://kstecnologia.com.br) | Cuiabá | - | - | - | Privada |
@@ -44,8 +45,8 @@
 | MCN Sistemas | [Site](http://www.mcnsistemas.com.br) | Cuiabá | Delphi | - | - | Privada |
 | Movere Software | [Site](https://moveresoftware.com) | Cuiabá | C# | SQL Server | - | Privada |
 | MPX | [Site](http://www.mpxbrasil.com.br) | Cuiabá | - | - | - | Privada |
-| Multiware | [Site](http://www.multiwaretecnologia.com.br) | Sinop | Delphi, Android, React-Native, Python, PHP, C, Javascript | PostgreSQL, MySQL | - | Privada |
 | MTI | [Site](http://www.mti.mt.gov.br) | Cuiabá | - | - | - | Público |
+| Multiware | [Site](http://www.multiwaretecnologia.com.br) | Sinop | Delphi, Android, React-Native, Python, PHP, C, Javascript | PostgreSQL, MySQL | - | Privada |
 | NBS Informática | [Site](http://www.nbsi.com.br) | Cuiabá | Delphi, Java, C# | Oracle | | Privada |
 | Nuvem Tecnologia | [Site](http://www.nuvem.net) | Cuiabá | C#, ASP.NET, ASP.NET Core, Xamarin, React/Redux, Kotlin |  | Azure, AWS | Privada |
 | Odeon Tecnologia | [Site](http://www.odeoninformatica.com.br) | Cuiabá | Delphi | SQL Server | - | Privada |
