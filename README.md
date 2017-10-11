@@ -8,7 +8,7 @@
 
 |+Empresa  | Site | Sede | Desenvolvimento | Banco de dados | Cloud | Empresa/Órgão |
 |------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Abaco | [Site](http://www.abaco.com.br) | Cuiabá | Genexus, Javascrip/Angular, Java | Oracle | - | Privada |
+| Abaco | [Site](http://www.abaco.com.br) | Cuiabá | Genexus, Javascript, Angular, Java | Oracle | - | Privada |
 | AgenSite | [Site](http://www.agensite.com) | Cuiabá | - | - | AWS, Locaweb | Privada |
 | AgriRent | [Site](http://www.agrirent.com.br) | Sinop | PHP, Symfony, Doctrine, Vue.js | MySQL | Locaweb | Privada |
 | AgroV | [Site](http://www.agrov.com.br) | Cuiabá | Java, JSF, Hibernate | PostgreSQL | Digital Ocean | Privada |
@@ -17,8 +17,8 @@
 | Axys Tecnologia | [Site](http://www.axystecnologia.com.br) | Cuiabá | C# | - | - | Privada |
 | Bitline | [Site](http://www.bitline.com.br) | Cuiabá | Delphi, PHP, HTML 5, CSS 3, Javascript, Bootstrap, jQuery | MySQL | | Privada |
 | Blue TI | [Site](http://www.blueti.com.br) | Cuiabá | - | - | - | Privada |
-| Codigo5 | [Site](https://www.codigo5.com.br) | Cuiabá | Ruby/Rails, Javascript/React/React Native | - | - | Privada |
-| Coleta Seletiva .NET| [Site](http://www.coletaseletiva.net.br) | Cuiabá | Javascript/Angular/Ionic, HTML, CSS | - | - | Privada |
+| Codigo5 | [Site](https://www.codigo5.com.br) | Cuiabá | Ruby, Ruby on Rails, Javascript, React, React Native | - | - | Privada |
+| Coleta Seletiva .NET| [Site](http://www.coletaseletiva.net.br) | Cuiabá | Javascript, Angular, Ionic, HTML, CSS | - | - | Privada |
 | Connecsoft | [Site](http://www.conecsoft.com.br) | Cuiabá | Delphi, C# | - | - | Privada |
 | Connect Sotware | [Site](http://www.connect.com.vc) | Cuiabá | Delphi, C#, PHP | MySQL | - | Privada |
 | Consignum | [Site](http://www.consignum.com.br) | Cuiabá | Java, JBoss, JSF, Hibernate | PostgreSQL | - | Privada |
@@ -27,17 +27,17 @@
 | Dropo | [Site](http://www.dropo.me) | Cuiabá | - | - | - | Privada |
 | Duralex | [Site](http://www.duralex.com.br) | Cuiabá | Java, C#, Delphi, HTML, CSS, Javascript | Firebird | - | Privada |
 | Efikase | - | Cuiabá | C#, Delphi | Oracle | - | Privada |
-| Ello tecnologia | [Site](http://www.ellotecnologia.net.br) | Alta Floresta | Delphi, Android, Python, Javascript, PHP/Yii | Firebird, Postgres | - | Privada |
+| Ello tecnologia | [Site](http://www.ellotecnologia.net.br) | Alta Floresta | Delphi, Android, Python, Javascript, PHP, Yii | Firebird, Postgres | - | Privada |
 | Eptus Corporation | [Site](http://www.brasil.eptus.com.br) | Cuiabá | Delphi, PHP | - | - | Privada |
 | Estuda.com | [Site](http://www.estuda.com) | Cuiabá | - | - | - | Privada |
 | Expert BI | [Site](http://www.expertbi.com.br) | Cuiabá | Qlik View | SQL Server | - | Privada |
 | Harmony Sistemas | [Site](http://www.harmonysistemas.com.br) | Cuiabá | - | - | - | Privada |
 | Hetosoft | [Site](http://www.hetosoft.com.br) | Várzea Grande | Delphi | - | - | Privada |
 | Inovabit | [Site](http://www.inovabit.com.br) | Cuiabá | - | - | - | Privada |
-| Intelecto Sistemas  | [Site](http://www.intelecto.com.br) | Cuiabá | Delphi, Typescript/Ionic, Java/Android, PHP/Laravel | SQL Anywhere, SQL Server, Oracle, SQLite3, MySQL | AWS, Locaweb | Privada |
+| Intelecto Sistemas  | [Site](http://www.intelecto.com.br) | Cuiabá | Delphi, Typescript, Ionic, Java, Android, PHP, Laravel | SQL Anywhere, SQL Server, Oracle, SQLite3, MySQL | AWS, Locaweb | Privada |
 | JMJ | [Site](https://www.jmjsistemas.com.br) | Sinop | Java, Javascript | - | - | Privada |
 | Junta Comercial (Jucemat) | [Site](http://www.jucemat.mt.gov.br) | Cuiabá | - | - | - | Público |
-| Kasterweb | [Site](http://www.kasterweb.com.br) | Cuiabá | PHP/Zend | MySQL | - | Privada |
+| Kasterweb | [Site](http://www.kasterweb.com.br) | Cuiabá | PHP, Zend Framework | MySQL | - | Privada |
 | Kpersoft | [Site](http://www.kpersoft.com.br) | Rondonópolis | - | - | - | Privada |
 | KS Tecnologia | [Site](http://kstecnologia.com.br) | Cuiabá | - | - | - | Privada |
 | Lotus Sistemas | [Site](http://www.lotussistemas.com) | Sinop | C# | SQL Server | - | Privada |
@@ -48,19 +48,19 @@
 | MTI | [Site](http://www.mti.mt.gov.br) | Cuiabá | - | - | - | Público |
 | Multiware | [Site](http://www.multiwaretecnologia.com.br) | Sinop | Delphi, Android, React-Native, Python, PHP, C, Javascript | PostgreSQL, MySQL | - | Privada |
 | NBS Informática | [Site](http://www.nbsi.com.br) | Cuiabá | Delphi, Java, C# | Oracle | | Privada |
-| Nuvem Tecnologia | [Site](http://www.nuvem.net) | Cuiabá | C#, ASP.NET, ASP.NET Core, Xamarin, React/Redux, Kotlin |  | Azure, AWS | Privada |
+| Nuvem Tecnologia | [Site](http://www.nuvem.net) | Cuiabá | C#, ASP.NET, ASP.NET Core, Xamarin, React, Redux, Kotlin |  | Azure, AWS | Privada |
 | Odeon Tecnologia | [Site](http://www.odeoninformatica.com.br) | Cuiabá | Delphi | SQL Server | - | Privada |
 | Omega Sistemas | [Site](https://omegasistemas.net.br) | Tangará da Serra | Java, Javascript, HTML5, CSS3, Delphi | - | - | Privada |
-| OniQ Tecnologia | [Site](http://oniq.com.br) | Cuiabá | Java, NodeJS, Web, Ionic, iOS, Android, Hardware, Sistemas Embarcados, C/C++, PHP | MySQL, PostgreSQL, Oracle, SQLite3, MongoDB, Firebase | AWS, GCP, Contabo | Privada |
+| OniQ Tecnologia | [Site](http://oniq.com.br) | Cuiabá | Java, NodeJS, Web, Ionic, iOS, Android, Hardware, Sistemas Embarcados, C, C++, PHP | MySQL, PostgreSQL, Oracle, SQLite3, MongoDB, Firebase | AWS, GCP, Contabo | Privada |
 | Online Engenharia de Sistemas | [Site](http://www.onlinesistemas.net) | Cuiabá | Delphi | - | - | Privada |
-| Posithividades | [Site](http://www.posithividades.com.br) | Cuiabá/Balneário Camboriú | Javascript/Ionic | Firebase | GCP | Privada |
+| Posithividades | [Site](http://www.posithividades.com.br) | Cuiabá/Balneário Camboriú | Javascript, Ionic | Firebase | GCP | Privada |
 | Prixx Tecnologia | [Site](http://prixxtecnologia.com.br) | Cuiabá | - | - | - | Privada |
-| Procurix | [Site](http://www.procurix.com.br) | Cuiabá | PHP/Zend, HTML, CSS, Javascript | - | - | Privada |
+| Procurix | [Site](http://www.procurix.com.br) | Cuiabá | PHP, Zend Framework, HTML, CSS, Javascript | - | - | Privada |
 | RFC Inovações | [Site](http://www.rcfinovacoes.com.br) | Cuiabá | Java, PHP, Javascript, Go | - | AWS | Privada |
 | Secretaria de Fazenda (SEFAZ) | [Site](http://www.sefaz.mt.gov.br) | Cuiabá | Java | - | -| Público |
 | SERPRO | [Site](http://www.serpro.gov.br) | Cuiabá | - | - | - | Público |
-| Sizy | [Site](http://www.sizy.com.br) | Várzea Grande | Ruby/Rails, PHP | PostgreSQL, MySQL, SQL Server | - | Privada |
-| Softsul | [Site](http://softsulsistemas.com.br) | Rondonópolis | PHP/Laravel, Javascript/Node/React/React Native/Ionic, Delphi, HTML, CSS, Java | Oracle, MySQL | AWS, Digital Ocean, Vultr | Privada |
+| Sizy | [Site](http://www.sizy.com.br) | Várzea Grande | Ruby, Ruby on Rails, PHP | PostgreSQL, MySQL, SQL Server | - | Privada |
+| Softsul | [Site](http://softsulsistemas.com.br) | Rondonópolis | PHP, Laravel, Javascript, NodeJS, React, React-Native, Ionic, Delphi, HTML, CSS, Java | Oracle, MySQL | AWS, Digital Ocean, Vultr | Privada |
 | Sydy | [Site](http://www.sydy.com.br) | Cuiabá | C#, ASP.NET, ASP.NET Core, Android, Xamarin, VueJS, NodeJS | PostgreSQL, SQL Server, MySQL, MongoDB, SQLite, Firebase | Azure, AWS | Privada |
 | Symetria | [Site](http://www.simetrya.com.br) | Cuiabá | Java, Spring, JSF PrimeFaces, Hibernate, jQuery, Ajax | - | - | Privada |
 | Tham Sistemas | [Site](http://www.tham.com.br) | Cuiabá | Delphi | - | - | Privada |
