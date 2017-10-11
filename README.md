@@ -46,7 +46,7 @@
 | Movere Software | [Site](https://moveresoftware.com) | Cuiabá | C# | SQL Server | - | Privada |
 | MPX | [Site](http://www.mpxbrasil.com.br) | Cuiabá | - | - | - | Privada |
 | MTI | [Site](http://www.mti.mt.gov.br) | Cuiabá | - | - | - | Público |
-| Multiware | [Site](http://www.multiwaretecnologia.com.br) | Sinop | Delphi, Android, React-Native, Python, PHP, C, Javascript | PostgreSQL, MySQL | - | Privada |
+| Multiware | [Site](http://www.multiwaretecnologia.com.br) | Sinop | Delphi, Android, React Native, Python, PHP, C, Javascript | PostgreSQL, MySQL | - | Privada |
 | NBS Informática | [Site](http://www.nbsi.com.br) | Cuiabá | Delphi, Java, C# | Oracle | | Privada |
 | Nuvem Tecnologia | [Site](http://www.nuvem.net) | Cuiabá | C#, ASP.NET, ASP.NET Core, Xamarin, React, Redux, Kotlin |  | Azure, AWS | Privada |
 | Odeon Tecnologia | [Site](http://www.odeoninformatica.com.br) | Cuiabá | Delphi | SQL Server | - | Privada |
@@ -60,7 +60,7 @@
 | Secretaria de Fazenda (SEFAZ) | [Site](http://www.sefaz.mt.gov.br) | Cuiabá | Java | - | -| Público |
 | SERPRO | [Site](http://www.serpro.gov.br) | Cuiabá | - | - | - | Público |
 | Sizy | [Site](http://www.sizy.com.br) | Várzea Grande | Ruby, Ruby on Rails, PHP | PostgreSQL, MySQL, SQL Server | - | Privada |
-| Softsul | [Site](http://softsulsistemas.com.br) | Rondonópolis | PHP, Laravel, Javascript, NodeJS, React, React-Native, Ionic, Delphi, HTML, CSS, Java | Oracle, MySQL | AWS, Digital Ocean, Vultr | Privada |
+| Softsul | [Site](http://softsulsistemas.com.br) | Rondonópolis | PHP, Laravel, Javascript, NodeJS, React, React Native, Ionic, Delphi, HTML, CSS, Java | Oracle, MySQL | AWS, Digital Ocean, Vultr | Privada |
 | Sydy | [Site](http://www.sydy.com.br) | Cuiabá | C#, ASP.NET, ASP.NET Core, Android, Xamarin, VueJS, NodeJS | PostgreSQL, SQL Server, MySQL, MongoDB, SQLite, Firebase | Azure, AWS | Privada |
 | Symetria | [Site](http://www.simetrya.com.br) | Cuiabá | Java, Spring, JSF PrimeFaces, Hibernate, jQuery, Ajax | - | - | Privada |
 | Tham Sistemas | [Site](http://www.tham.com.br) | Cuiabá | Delphi | - | - | Privada |
