@@ -27,14 +27,14 @@
 | Dropo | [Site](http://www.dropo.me) | Cuiabá | - | - | - | Privada |
 | Duralex | [Site](http://www.duralex.com.br) | Cuiabá | Java, C#, Delphi, HTML, CSS, Javascript | Firebird | - | Privada |
 | Efikase | - | Cuiabá | C#, Delphi | Oracle | - | Privada |
-| Ello tecnologia | [Site](http://www.ellotecnologia.net.br) | Alta Floresta | Delphi, Android, Python, Javascript, PHP, Yii | Firebird, Postgres | - | Privada |
+| Ello tecnologia | [Site](http://www.ellotecnologia.net.br) | Alta Floresta | Delphi, Android, Python, Javascript, PHP, Yii | Firebird, PostgreSQL | - | Privada |
 | Eptus Corporation | [Site](http://www.brasil.eptus.com.br) | Cuiabá | Delphi, PHP | - | - | Privada |
 | Estuda.com | [Site](http://www.estuda.com) | Cuiabá | - | - | - | Privada |
 | Expert BI | [Site](http://www.expertbi.com.br) | Cuiabá | Qlik View | SQL Server | - | Privada |
 | Harmony Sistemas | [Site](http://www.harmonysistemas.com.br) | Cuiabá | - | - | - | Privada |
 | Hetosoft | [Site](http://www.hetosoft.com.br) | Várzea Grande | Delphi | - | - | Privada |
 | Inovabit | [Site](http://www.inovabit.com.br) | Cuiabá | - | - | - | Privada |
-| Intelecto Sistemas  | [Site](http://www.intelecto.com.br) | Cuiabá | Delphi, Typescript, Ionic, Java, Android, PHP, Laravel | SQL Anywhere, SQL Server, Oracle, SQLite3, MySQL | AWS, Locaweb | Privada |
+| Intelecto Sistemas  | [Site](http://www.intelecto.com.br) | Cuiabá | Delphi, Typescript, Ionic, Java, Android, PHP, Laravel | SQL Anywhere, SQL Server, Oracle, SQLite, MySQL | AWS, Locaweb | Privada |
 | JMJ | [Site](https://www.jmjsistemas.com.br) | Sinop | Java, Javascript | - | - | Privada |
 | Junta Comercial (Jucemat) | [Site](http://www.jucemat.mt.gov.br) | Cuiabá | - | - | - | Público |
 | Kasterweb | [Site](http://www.kasterweb.com.br) | Cuiabá | PHP, Zend Framework | MySQL | - | Privada |
@@ -51,7 +51,7 @@
 | Nuvem Tecnologia | [Site](http://www.nuvem.net) | Cuiabá | C#, ASP.NET, ASP.NET Core, Xamarin, React, Redux, Kotlin |  | Azure, AWS | Privada |
 | Odeon Tecnologia | [Site](http://www.odeoninformatica.com.br) | Cuiabá | Delphi | SQL Server | - | Privada |
 | Omega Sistemas | [Site](https://omegasistemas.net.br) | Tangará da Serra | Java, Javascript, HTML, CSS, Delphi | - | - | Privada |
-| OniQ Tecnologia | [Site](http://oniq.com.br) | Cuiabá | Java, NodeJS, Web, Ionic, iOS, Android, Hardware, Sistemas Embarcados, C, C++, PHP | MySQL, PostgreSQL, Oracle, SQLite3, MongoDB, Firebase | AWS, GCP, Contabo | Privada |
+| OniQ Tecnologia | [Site](http://oniq.com.br) | Cuiabá | Java, NodeJS, Web, Ionic, iOS, Android, Hardware, Sistemas Embarcados, C, C++, PHP | MySQL, PostgreSQL, Oracle, SQLite, MongoDB, Firebase | AWS, GCP, Contabo | Privada |
 | Online Engenharia de Sistemas | [Site](http://www.onlinesistemas.net) | Cuiabá | Delphi | - | - | Privada |
 | Posithividades | [Site](http://www.posithividades.com.br) | Cuiabá/Balneário Camboriú | Javascript, Ionic | Firebase | GCP | Privada |
 | Prixx Tecnologia | [Site](http://prixxtecnologia.com.br) | Cuiabá | - | - | - | Privada |
@@ -79,3 +79,4 @@
 | Worx Tecnologia | [Site](http://www.worxtecnologia.com.br) | Cuiabá | - | - | - | Privada |
 
 [Tabela de uso de tecnologias](technology_usage.md)
+[Tabela de uso de bancos de dados](database_usage.md)
