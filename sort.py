@@ -1,30 +1,33 @@
 # coding: utf-8
+from collections import Counter
 
-def generate_charts():
-    mapa_tecnologias = filtra_tecnologias('README.md')
-    nomes_tecnologias = sorted(mapa_tecnologias, key=mapa_tecnologias.get, reverse=True)
-    with open('technology_usage.md', 'w+', encoding='UTF-8') as f:
+
+def generate_charts(chart_type):
+    technologies = filter_technologies('README.md', {'technology': 4, 'database': 5}[chart_type])
+    sorted_technology_names = sorted(technologies, key=technologies.get, reverse=True)
+    with open(f'{chart_type}_usage.md', 'w+', encoding='UTF-8') as f:
         f.write('|+Tecnologia  | Quantidade |\n')
         f.write('|------------ | -----------|\n')
-        for tecnologia in nomes_tecnologias:
-            f.write('|{} |{} |\n'.format(tecnologia, mapa_tecnologias[tecnologia]))
+        for technology_name in sorted_technology_names:
+            count = technologies[technology_name]
+            f.write(f'|{technology_name} |{count} |\n')
 
-def filtra_tecnologias(readme_file):
-    mapa_tecnologias = {}
+
+def filter_technologies(readme_file, column_number):
+    counter = Counter()
     with open(readme_file, 'r', encoding='UTF-8') as read_me_file:
         for line in read_me_file:
             s_line = line.lstrip()
             if any([s_line.startswith(s) for s in ['| '] if s not in ('|+')]):
-                coluna_tecnologias = s_line.split('|')[4]
-                tecnologias = coluna_tecnologias.split(',')
-                tecnologias = list(map(str.strip, tecnologias))
-                tecnologias = list(filter(lambda x: x != '-', tecnologias))
-                for tecnologia in tecnologias:
-                    if tecnologia in mapa_tecnologias:
-                        mapa_tecnologias[tecnologia] += 1
-                    else:
-                        mapa_tecnologias[tecnologia] = 1
-    return mapa_tecnologias
+                tech_column = s_line.split('|')[column_number]
+                technologies = tech_column.split(',')
+                technologies = list(map(str.strip, technologies))
+                technologies = list(filter(lambda x: x != '-', technologies))
+                technologies = list(filter(lambda x: x, technologies)) # filter empty items
+                for technology in technologies:
+                    counter[technology] += 1
+    return counter
+
 
 def sort():
     with open('README.md', 'r', encoding='UTF-8') as read_me_file:
@@ -50,9 +53,12 @@ def sort():
         blocks = [''.join(sorted(block, key=lambda s: s.lower())) for block in blocks]
         sorted_file.write(''.join(blocks))
 
+
 def main():
     sort()
-    generate_charts()
+    generate_charts('technology')
+    generate_charts('database')
+
 
 if __name__ == "__main__":
     main()
