@@ -78,5 +78,5 @@
 | Weeke Aplicativos | [Site](http://www.weeke.com.br) | Cuiabá | - | - | - | Privada |
 | Worx Tecnologia | [Site](http://www.worxtecnologia.com.br) | Cuiabá | - | - | - | Privada |
 
-[Tabela de uso de tecnologias](technology_usage.md)
-[Tabela de uso de bancos de dados](database_usage.md)
+## [Tabela de uso de tecnologias](technology_usage.md)
+## [Tabela de uso de bancos de dados](database_usage.md)
