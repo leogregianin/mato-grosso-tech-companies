@@ -80,3 +80,4 @@
 
 ## [Tabela de uso de tecnologias](technology_usage.md)
 ## [Tabela de uso de bancos de dados](database_usage.md)
+## [Tabela de uso de cloud](cloud_usage.md)

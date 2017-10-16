@@ -3,7 +3,7 @@ from collections import Counter
 
 
 def generate_charts(chart_type):
-    technologies = filter_technologies('README.md', {'technology': 4, 'database': 5}[chart_type])
+    technologies = filter_technologies('README.md', {'technology': 4, 'database': 5, 'cloud': 6}[chart_type])
     sorted_technology_names = sorted(technologies, key=technologies.get, reverse=True)
     with open(f'{chart_type}_usage.md', 'w+', encoding='UTF-8') as f:
         f.write('|+Tecnologia  | Quantidade |\n')
@@ -11,7 +11,6 @@ def generate_charts(chart_type):
         for technology_name in sorted_technology_names:
             count = technologies[technology_name]
             f.write(f'|{technology_name} |{count} |\n')
-
 
 def filter_technologies(readme_file, column_number):
     counter = Counter()
@@ -58,6 +57,7 @@ def main():
     sort()
     generate_charts('technology')
     generate_charts('database')
+    generate_charts('cloud')
 
 
 if __name__ == "__main__":
