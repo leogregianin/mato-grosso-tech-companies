@@ -1,11 +1,11 @@
 |+Tecnologia  | Quantidade |
 |------------ | -----------|
 |MySQL |11 |
-|SQL Server |10 |
+|SQL Server |11 |
 |Oracle |8 |
 |PostgreSQL |8 |
+|Firebird |3 |
 |SQLite |3 |
 |MongoDB |3 |
 |Firebase |3 |
-|Firebird |2 |
 |SQL Anywhere |1 |

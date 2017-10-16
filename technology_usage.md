@@ -3,7 +3,7 @@
 |Java |21 |
 |Delphi |20 |
 |PHP |17 |
-|C# |15 |
+|C# |17 |
 |Javascript |14 |
 |HTML |8 |
 |CSS |8 |
@@ -11,13 +11,14 @@
 |Ionic |5 |
 |jQuery |4 |
 |React |4 |
+|ASP.NET |4 |
 |Genexus |3 |
 |Angular |3 |
 |JSF |3 |
 |Hibernate |3 |
 |React Native |3 |
 |JBoss |3 |
-|ASP.NET |3 |
+|Xamarin |3 |
 |ASP.NET Core |3 |
 |NodeJS |3 |
 |Vue |2 |
@@ -27,7 +28,6 @@
 |Laravel |2 |
 |Zend Framework |2 |
 |C |2 |
-|Xamarin |2 |
 |Tomcat |2 |
 |Symfony |1 |
 |Doctrine |1 |
