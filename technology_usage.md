@@ -1,17 +1,18 @@
 |+Tecnologia  | Quantidade |
 |------------ | -----------|
-|Java |21 |
+|Javascript |24 |
+|Java |24 |
+|PHP |21 |
 |Delphi |20 |
-|PHP |17 |
 |C# |17 |
-|Javascript |14 |
 |HTML |8 |
 |CSS |8 |
-|Android |6 |
+|Android |7 |
 |Ionic |5 |
+|ASP.NET |5 |
 |jQuery |4 |
+|Ruby |4 |
 |React |4 |
-|ASP.NET |4 |
 |Genexus |3 |
 |Angular |3 |
 |JSF |3 |
@@ -22,7 +23,6 @@
 |ASP.NET Core |3 |
 |NodeJS |3 |
 |Vue |2 |
-|Ruby |2 |
 |Ruby on Rails |2 |
 |Python |2 |
 |Laravel |2 |
@@ -33,6 +33,7 @@
 |Doctrine |1 |
 |Bootstrap |1 |
 |Yii |1 |
+|ObjectiveC |1 |
 |Qlik View |1 |
 |Typescript |1 |
 |Redux |1 |
