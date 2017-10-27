@@ -4,7 +4,7 @@
 |SQL Server |11 |
 |Oracle |8 |
 |PostgreSQL |8 |
-|Firebird |3 |
+|Firebird |4 |
 |SQLite |3 |
 |MongoDB |3 |
 |Firebase |3 |

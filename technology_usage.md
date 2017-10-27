@@ -2,8 +2,8 @@
 |------------ | -----------|
 |Javascript |24 |
 |Java |24 |
+|Delphi |21 |
 |PHP |21 |
-|Delphi |20 |
 |C# |17 |
 |HTML |8 |
 |CSS |8 |
