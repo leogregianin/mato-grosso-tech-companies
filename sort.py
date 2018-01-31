@@ -10,7 +10,7 @@ def generate_charts(chart_type):
         f.write('|------------ | -----------|\n')
         for technology_name in sorted_technology_names:
             count = technologies[technology_name]
-            f.write(f'|{technology_name} |{count} |\n')
+            f.write(f'| {technology_name} | {count} |\n')
 
 def filter_technologies(readme_file, column_number):
     counter = Counter()
