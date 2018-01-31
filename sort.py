@@ -1,7 +1,6 @@
 # coding: utf-8
 from collections import Counter
 
-
 def generate_charts(chart_type):
     technologies = filter_technologies('README.md', {'technology': 4, 'database': 5, 'cloud': 6}[chart_type])
     sorted_technology_names = sorted(technologies, key=technologies.get, reverse=True)
@@ -27,7 +26,6 @@ def filter_technologies(readme_file, column_number):
                     counter[technology] += 1
     return counter
 
-
 def sort():
     with open('README.md', 'r', encoding='UTF-8') as read_me_file:
         read_me = read_me_file.readlines()
@@ -52,13 +50,11 @@ def sort():
         blocks = [''.join(sorted(block, key=lambda s: s.lower())) for block in blocks]
         sorted_file.write(''.join(blocks))
 
-
 def main():
     sort()
     generate_charts('technology')
     generate_charts('database')
     generate_charts('cloud')
-
 
 if __name__ == "__main__":
     main()
