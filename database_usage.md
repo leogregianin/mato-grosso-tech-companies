@@ -1,4 +1,4 @@
-|+Tecnologia  | Quantidade |
+|+Database | Quantidade |
 |------------ | -----------|
 |MySQL |11 |
 |SQL Server |11 |

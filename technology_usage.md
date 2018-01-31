@@ -1,4 +1,4 @@
-|+Tecnologia  | Quantidade |
+|+Technology | Quantidade |
 |------------ | -----------|
 |Javascript |25 |
 |Java |24 |

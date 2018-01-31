@@ -1,4 +1,4 @@
-|+Tecnologia  | Quantidade |
+|+Cloud | Quantidade |
 |------------ | -----------|
 |AWS |7 |
 |Locaweb |3 |

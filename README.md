@@ -54,7 +54,7 @@
 | Omega Sistemas | [Site](https://omegasistemas.net.br) | Tangará da Serra | Java, Javascript, HTML, CSS, Delphi | - | - | Privada |
 | OniQ Tecnologia | [Site](http://oniq.com.br) | Cuiabá | Java, Javascript, NodeJS, Web, Ionic, iOS, Android, Hardware, Sistemas Embarcados, C, C++, PHP | MySQL, PostgreSQL, Oracle, SQLite, MongoDB, Firebase | AWS, GCP, Contabo | Privada |
 | Online Engenharia de Sistemas | [Site](http://www.onlinesistemas.net) | Cuiabá | Delphi, C#, ASP.NET | - | - | Privada |
-| Posithividades | [Site](http://www.posithividades.com.br) | Cuiabá/Balneário Camboriú | Javascript, Ionic | Firebase | GCP | Privada |
+| Posithividades | [Site](http://www.posithividades.com.br) | Cuiabá, Balneário Camboriú | Javascript, Ionic | Firebase | GCP | Privada |
 | Prixx Tecnologia | [Site](http://prixxtecnologia.com.br) | Cuiabá | - | - | - | Privada |
 | Procurix | [Site](http://www.procurix.com.br) | Cuiabá | PHP, Zend Framework, HTML, CSS, Javascript | - | - | Privada |
 | RFC Inovações | [Site](http://www.rcfinovacoes.com.br) | Cuiabá | Java, PHP, Javascript, Go | - | AWS | Privada |
@@ -82,3 +82,4 @@
 ## [Tabela de uso de tecnologias](technology_usage.md)
 ## [Tabela de uso de bancos de dados](database_usage.md)
 ## [Tabela de uso de cloud](cloud_usage.md)
+## [Tabela de quantidade de empresas por cidade](city_usage.md)
