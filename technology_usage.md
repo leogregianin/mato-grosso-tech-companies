@@ -1,16 +1,16 @@
 |+Tecnologia  | Quantidade |
 |------------ | -----------|
-|Javascript |24 |
+|Javascript |25 |
 |Java |24 |
-|PHP |21 |
+|PHP |22 |
 |Delphi |20 |
-|C# |17 |
-|HTML |8 |
-|CSS |8 |
+|C# |18 |
+|HTML |9 |
+|CSS |9 |
 |Android |7 |
+|jQuery |5 |
 |Ionic |5 |
 |ASP.NET |5 |
-|jQuery |4 |
 |Ruby |4 |
 |React |4 |
 |Genexus |3 |
@@ -26,6 +26,7 @@
 |Ruby on Rails |2 |
 |Python |2 |
 |Laravel |2 |
+|Go |2 |
 |Zend Framework |2 |
 |C |2 |
 |Tomcat |2 |
@@ -43,7 +44,6 @@
 |Hardware |1 |
 |Sistemas Embarcados |1 |
 |C++ |1 |
-|Go |1 |
 |Spring |1 |
 |Ajax |1 |
 |Wildfly |1 |
