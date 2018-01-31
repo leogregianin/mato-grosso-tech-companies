@@ -3,7 +3,7 @@
 |Javascript |25 |
 |Java |24 |
 |PHP |22 |
-|Delphi |20 |
+|Delphi |21 |
 |C# |18 |
 |HTML |9 |
 |CSS |9 |

@@ -1,7 +1,7 @@
 |+City | Quantidade |
 |------------ | -----------|
 |Cuiabá |55 |
-|Sinop |5 |
+|Sinop |6 |
 |Várzea Grande |4 |
 |Sorriso |2 |
 |Rondonópolis |2 |

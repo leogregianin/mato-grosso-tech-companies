@@ -9,6 +9,7 @@
 |+Empresa  | Site | Sede | Desenvolvimento | Banco de dados | Cloud | Empresa/Órgão |
 |------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Abaco | [Site](http://www.abaco.com.br) | Cuiabá | Genexus, Javascript, Angular, Java | Oracle | - | Privada |
+| Absolut | [Site](http://www.absolutsistemas.com.br/) | Sinop | Delphi | Firebird | - | Privada |
 | AgenSite | [Site](http://www.agensite.com) | Cuiabá | PHP, Javascript | - | AWS, Locaweb | Privada |
 | AgriRent | [Site](http://www.agrirent.com.br) | Sinop | PHP, Symfony, Doctrine, Vue | MySQL | Locaweb | Privada |
 | AgroV | [Site](http://www.agrov.com.br) | Cuiabá | Java, JSF, Hibernate | PostgreSQL | Digital Ocean | Privada |
