@@ -84,3 +84,9 @@
 ## [Tabela de uso de bancos de dados](database_usage.md)
 ## [Tabela de uso de cloud](cloud_usage.md)
 ## [Tabela de quantidade de empresas por cidade](city_usage.md)
+
+# Veja também
+## [Empresas com trabalho remoto no Brasil](https://github.com/lerrua/remote-jobs-brazil)
+## [Empresas com trabalho remoto no mundo](https://github.com/remoteintech/remote-jobs)
+
+
