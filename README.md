@@ -30,7 +30,7 @@
 | Efikase | - | Cuiabá | C#, Delphi | Oracle | - | Privada |
 | Ello tecnologia | [Site](http://www.ellotecnologia.net.br) | Alta Floresta | Delphi, Android, Python, Javascript, PHP, Yii | Firebird, PostgreSQL | - | Privada |
 | Eptus Corporation | [Site](http://www.brasil.eptus.com.br) | Cuiabá | Delphi, PHP | - | - | Privada |
-| Estuda.com | [Site](http://www.estuda.com) | Cuiabá | Java, Android, ObjectiveC | - | - | Privada |
+| Estuda.com | [Site](http://www.estuda.com) | Cuiabá | PHP, React Native | - | - | Privada |
 | Expert BI | [Site](http://www.expertbi.com.br) | Cuiabá | Qlik View | SQL Server | - | Privada |
 | Harmony Sistemas | [Site](http://www.harmonysistemas.com.br) | Cuiabá | - | - | - | Privada |
 | Hetosoft | [Site](http://www.hetosoft.com.br) | Várzea Grande | Delphi, C#, Xamarin | SQL Server, Firebird | Azure | Privada |

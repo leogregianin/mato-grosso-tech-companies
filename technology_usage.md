@@ -1,23 +1,23 @@
 |+Technology | Quantidade |
 |------------ | -----------|
 | Javascript | 25 |
-| Java | 24 |
-| PHP | 22 |
+| Java | 23 |
+| PHP | 23 |
 | Delphi | 21 |
 | C# | 18 |
 | HTML | 9 |
 | CSS | 9 |
-| Android | 7 |
+| Android | 6 |
 | jQuery | 5 |
 | Ionic | 5 |
 | ASP.NET | 5 |
 | Ruby | 4 |
 | React | 4 |
+| React Native | 4 |
 | Genexus | 3 |
 | Angular | 3 |
 | JSF | 3 |
 | Hibernate | 3 |
-| React Native | 3 |
 | JBoss | 3 |
 | Xamarin | 3 |
 | ASP.NET Core | 3 |
@@ -34,7 +34,6 @@
 | Doctrine | 1 |
 | Bootstrap | 1 |
 | Yii | 1 |
-| ObjectiveC | 1 |
 | Qlik View | 1 |
 | Typescript | 1 |
 | Redux | 1 |
