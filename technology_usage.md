@@ -1,4 +1,4 @@
-|+Technology | Quantidade |
+|+Technology | Count |
 |------------ | -----------|
 | Javascript | 25 |
 | Java | 23 |

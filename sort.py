@@ -1,30 +1,32 @@
 # coding: utf-8
 from collections import Counter
 
-def generate_charts(chart_type):
-    technologies = filter_technologies('README.md', 
-            {'city': 3, 'technology': 4, 'database': 5, 'cloud': 6}[chart_type])
-    sorted_technology_names = sorted(technologies, key=technologies.get, reverse=True)
-    with open(f'{chart_type}_usage.md', 'w+', encoding='UTF-8') as f:
-        f.write('|+%s | Quantidade |\n' % chart_type.capitalize())
-        f.write('|------------ | -----------|\n')
-        for technology_name in sorted_technology_names:
-            count = technologies[technology_name]
-            f.write(f'| {technology_name} | {count} |\n')
+stats = {'city': 3, 'technology': 4, 'database': 5, 'cloud': 6}
 
-def filter_technologies(readme_file, column_number):
+def generate_charts(chart_type):
+    columns = filter_columns('README.md', stats[chart_type])
+    sorted_columns_names = sorted(columns, key=columns.get, reverse=True)
+    
+    with open(f'{chart_type}_usage.md', 'w+', encoding='UTF-8') as f:
+        f.write('|+%s | Count |\n' % chart_type.capitalize())
+        f.write('|------------ | -----------|\n')
+        for columns_name in sorted_columns_names:
+            count = columns[columns_name]
+            f.write(f'| {columns_name} | {count} |\n')
+
+def filter_columns(readme_file, column_number):
     counter = Counter()
     with open(readme_file, 'r', encoding='UTF-8') as read_me_file:
         for line in read_me_file:
             s_line = line.lstrip()
             if any([s_line.startswith(s) for s in ['| '] if s not in ('|+')]):
                 tech_column = s_line.split('|')[column_number]
-                technologies = tech_column.split(',')
-                technologies = list(map(str.strip, technologies))
-                technologies = list(filter(lambda x: x != '-', technologies))
-                technologies = list(filter(lambda x: x, technologies)) # filter empty items
-                for technology in technologies:
-                    counter[technology] += 1
+                columns = tech_column.split(',')
+                columns = list(map(str.strip, columns))
+                columns = list(filter(lambda x: x != '-', columns))
+                columns = list(filter(lambda x: x, columns)) # filter empty items
+                for column in columns:
+                    counter[column] += 1
     return counter
 
 def sort():
@@ -50,13 +52,9 @@ def sort():
     with open('README.md', 'w+', encoding='UTF-8') as sorted_file:
         blocks = [''.join(sorted(block, key=lambda s: s.lower())) for block in blocks]
         sorted_file.write(''.join(blocks))
-
-def main():
-    sort()
-    generate_charts('technology')
-    generate_charts('database')
-    generate_charts('cloud')
-    generate_charts('city')
+    
+    for chart_type in stats.keys():
+        generate_charts(chart_type)
 
 if __name__ == "__main__":
-    main()
+    sort()

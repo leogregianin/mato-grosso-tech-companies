@@ -1,4 +1,4 @@
-|+Database | Quantidade |
+|+Database | Count |
 |------------ | -----------|
 | MySQL | 11 |
 | SQL Server | 11 |

@@ -1,4 +1,4 @@
-|+Cloud | Quantidade |
+|+Cloud | Count |
 |------------ | -----------|
 | AWS | 7 |
 | Locaweb | 3 |

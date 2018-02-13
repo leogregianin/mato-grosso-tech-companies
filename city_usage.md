@@ -1,4 +1,4 @@
-|+City | Quantidade |
+|+City | Count |
 |------------ | -----------|
 | Cuiabá | 55 |
 | Sinop | 6 |
