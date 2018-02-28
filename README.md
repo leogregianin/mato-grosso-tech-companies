@@ -8,7 +8,7 @@
 
 |+Empresa  | Site | Sede | Desenvolvimento | Banco de dados | Cloud | Empresa/Órgão |
 |------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 99jus | [Site](http://www.99jus.com.br) | Cuiabá | TypeScript, Javascript, Ionic, HTML, CSS | Firebase, Google Cloud | - | Privada |
+| 99jus | [Site](http://www.99jus.com.br) | Cuiabá | Typescript, Javascript, Ionic, HTML, CSS | Firebase, GCP | - | Privada |
 | Abaco | [Site](http://www.abaco.com.br) | Cuiabá | Genexus, Javascript, Angular, Java | Oracle | - | Privada |
 | Absolut | [Site](http://www.absolutsistemas.com.br/) | Sinop | Delphi | Firebird | - | Privada |
 | AgenSite | [Site](http://www.agensite.com) | Cuiabá | PHP, Javascript | - | AWS, Locaweb | Privada |
@@ -36,7 +36,7 @@
 | Harmony Sistemas | [Site](http://www.harmonysistemas.com.br) | Cuiabá | - | - | - | Privada |
 | Hetosoft | [Site](http://www.hetosoft.com.br) | Várzea Grande | Delphi, C#, Xamarin | SQL Server, Firebird | Azure | Privada |
 | HTDigital | [Site](www.htdigital.com.br) | Várzea Grande | HTML, CSS, Javascript, jQuery, PHP, C# | - | - | Privada |
-| i9 Desenvolvimento | [Site](http://www.i9desenvolvimento.com.br) | Cuiabá | TypeScript, Javascript, Ionic, HTML, CSS | Firebase, Google Cloud | - | Privada |
+| i9 Desenvolvimento | [Site](http://www.i9desenvolvimento.com.br) | Cuiabá | Typescript, Javascript, Ionic, HTML, CSS | Firebase, GCP | - | Privada |
 | Inovabit | [Site](http://www.inovabit.com.br) | Cuiabá | - | - | - | Privada |
 | Intelecto Sistemas | [Site](http://www.intelecto.com.br) | Cuiabá | Delphi, Typescript, Ionic, Java, Android, PHP, Laravel, Go | SQL Anywhere, SQL Server, Oracle, SQLite, MySQL | AWS, Locaweb | Privada |
 | JMJ | [Site](https://www.jmjsistemas.com.br) | Sinop | Java, Javascript | - | - | Privada |
@@ -57,7 +57,6 @@
 | Omega Sistemas | [Site](https://omegasistemas.net.br) | Tangará da Serra | Java, Javascript, HTML, CSS, Delphi | - | - | Privada |
 | OniQ Tecnologia | [Site](http://oniq.com.br) | Cuiabá | Java, Javascript, NodeJS, Web, Ionic, iOS, Android, Hardware, Sistemas Embarcados, C, C++, PHP | MySQL, PostgreSQL, Oracle, SQLite, MongoDB, Firebase | AWS, GCP, Contabo | Privada |
 | Online Engenharia de Sistemas | [Site](http://www.onlinesistemas.net) | Cuiabá | Delphi, C#, ASP.NET | - | - | Privada |
-| Posithividades | [Site](http://www.posithividades.com.br) | Cuiabá, Balneário Camboriú | Javascript, Ionic | Firebase | GCP | Privada |
 | Prixx Tecnologia | [Site](http://prixxtecnologia.com.br) | Cuiabá | - | - | - | Privada |
 | Procurix | [Site](http://www.procurix.com.br) | Cuiabá | PHP, Zend Framework, HTML, CSS, Javascript | - | - | Privada |
 | RFC Inovações | [Site](http://www.rcfinovacoes.com.br) | Cuiabá | Java, PHP, Javascript, Go | - | AWS | Privada |

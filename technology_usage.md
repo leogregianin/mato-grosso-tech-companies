@@ -1,19 +1,20 @@
 |+Technology | Count |
 |------------ | -----------|
-| Javascript | 25 |
+| Javascript | 26 |
 | Java | 23 |
 | PHP | 23 |
 | Delphi | 21 |
 | C# | 18 |
-| HTML | 9 |
-| CSS | 9 |
+| HTML | 11 |
+| CSS | 11 |
+| Ionic | 6 |
 | Android | 6 |
 | jQuery | 5 |
-| Ionic | 5 |
 | ASP.NET | 5 |
 | Ruby | 4 |
 | React | 4 |
 | React Native | 4 |
+| Typescript | 3 |
 | Genexus | 3 |
 | Angular | 3 |
 | JSF | 3 |
@@ -35,7 +36,6 @@
 | Bootstrap | 1 |
 | Yii | 1 |
 | Qlik View | 1 |
-| Typescript | 1 |
 | Redux | 1 |
 | Kotlin | 1 |
 | Web | 1 |
