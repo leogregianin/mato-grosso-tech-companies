@@ -1,13 +1,14 @@
 # Empresas e startups que desenvolvem software no Estado do Mato Grosso (Brasil) e suas tecnologias
 
  * As informações deste repositório foram obtidas através dos sites das próprias empresas ou por sites de empregos informados pela própria empresa.
- 
+
  * Este repositório tem por objetivo listar todas as empresas/startups que produzem software no Estado, seja no desenvolvimento interno ou outsourcing para que sirva como um guia para apoios à eventos ou procurar trabalhos.
- 
+
  * Contribuições são sempre bem-vindas, stars e forks também. :star::star::star: Veja o [Guia de Contribuições](CONTRIBUTING.md).
 
 |+Empresa  | Site | Sede | Desenvolvimento | Banco de dados | Cloud | Empresa/Órgão |
 |------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 99jus | [Site](http://www.99jus.com.br) | Cuiabá | TypeScript, Javascript, Ionic, HTML, CSS | Firebase, Google Cloud | - | Privada |
 | Abaco | [Site](http://www.abaco.com.br) | Cuiabá | Genexus, Javascript, Angular, Java | Oracle | - | Privada |
 | Absolut | [Site](http://www.absolutsistemas.com.br/) | Sinop | Delphi | Firebird | - | Privada |
 | AgenSite | [Site](http://www.agensite.com) | Cuiabá | PHP, Javascript | - | AWS, Locaweb | Privada |
@@ -35,6 +36,7 @@
 | Harmony Sistemas | [Site](http://www.harmonysistemas.com.br) | Cuiabá | - | - | - | Privada |
 | Hetosoft | [Site](http://www.hetosoft.com.br) | Várzea Grande | Delphi, C#, Xamarin | SQL Server, Firebird | Azure | Privada |
 | HTDigital | [Site](www.htdigital.com.br) | Várzea Grande | HTML, CSS, Javascript, jQuery, PHP, C# | - | - | Privada |
+| i9 Desenvolvimento | [Site](http://www.i9desenvolvimento.com.br) | Cuiabá | TypeScript, Javascript, Ionic, HTML, CSS | Firebase, Google Cloud | - | Privada |
 | Inovabit | [Site](http://www.inovabit.com.br) | Cuiabá | - | - | - | Privada |
 | Intelecto Sistemas | [Site](http://www.intelecto.com.br) | Cuiabá | Delphi, Typescript, Ionic, Java, Android, PHP, Laravel, Go | SQL Anywhere, SQL Server, Oracle, SQLite, MySQL | AWS, Locaweb | Privada |
 | JMJ | [Site](https://www.jmjsistemas.com.br) | Sinop | Java, Javascript | - | - | Privada |
@@ -88,5 +90,3 @@
 # Veja também
 ## [Empresas com trabalho remoto no Brasil](https://github.com/lerrua/remote-jobs-brazil)
 ## [Empresas com trabalho remoto no mundo](https://github.com/remoteintech/remote-jobs)
-
-
