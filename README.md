@@ -8,7 +8,7 @@
 
 |+Empresa  | Site | Sede | Desenvolvimento | Banco de dados | Cloud | Empresa/Órgão |
 |------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 99jus | [Site](http://www.99jus.com.br) | Cuiabá | Typescript, Javascript, Ionic, HTML, CSS | Firebase, GCP | - | Privada |
+| 99jus | [Site](http://www.99jus.com.br) | Cuiabá | Typescript, Javascript, Ionic, HTML, CSS | Firebase | GCP | Privada |
 | Abaco | [Site](http://www.abaco.com.br) | Cuiabá | Genexus, Javascript, Angular, Java | Oracle | - | Privada |
 | Absolut | [Site](http://www.absolutsistemas.com.br/) | Sinop | Delphi | Firebird | - | Privada |
 | AgenSite | [Site](http://www.agensite.com) | Cuiabá | PHP, Javascript | - | AWS, Locaweb | Privada |
@@ -19,7 +19,7 @@
 | Axys Tecnologia | [Site](http://www.axystecnologia.com.br) | Cuiabá | C# | - | - | Privada |
 | Bitline | [Site](http://www.bitline.com.br) | Cuiabá | Delphi, PHP, HTML, CSS, Javascript, Bootstrap, jQuery | MySQL | | Privada |
 | Blue TI | [Site](http://www.blueti.com.br) | Cuiabá | - | - | - | Privada |
-| Codigo5 | [Site](https://www.codigo5.com.br) | Cuiabá | Ruby, Ruby on Rails, Javascript, React, React Native, PHP, Magento, Wordpress, NodeJS, Ionic, Angular | PostgreSQL, MySQL, Firebase, Redis, SQLite, MongoDB | Heroku, Digital Ocean, Amazon AWS, Nexcess | Privada |
+| Codigo5 | [Site](https://www.codigo5.com.br) | Cuiabá | Ruby, Ruby on Rails, Javascript, React, React Native, PHP, Magento, Wordpress, NodeJS, Ionic, Angular | PostgreSQL, MySQL, Firebase, Redis, SQLite, MongoDB | Heroku, Digital Ocean, AWS, Nexcess | Privada |
 | Coleta Seletiva .NET| [Site](http://www.coletaseletiva.net.br) | Cuiabá | Javascript, Angular, Ionic, HTML, CSS | - | - | Privada |
 | Connecsoft | [Site](http://www.conecsoft.com.br) | Cuiabá | Delphi, C# | - | - | Privada |
 | Connect Sotware | [Site](http://www.connect.com.vc) | Cuiabá | Delphi, C#, PHP | MySQL | - | Privada |
@@ -36,7 +36,7 @@
 | Harmony Sistemas | [Site](http://www.harmonysistemas.com.br) | Cuiabá | - | - | - | Privada |
 | Hetosoft | [Site](http://www.hetosoft.com.br) | Várzea Grande | Delphi, C#, Xamarin | SQL Server, Firebird | Azure | Privada |
 | HTDigital | [Site](www.htdigital.com.br) | Várzea Grande | HTML, CSS, Javascript, jQuery, PHP, C# | - | - | Privada |
-| i9 Desenvolvimento | [Site](http://www.i9desenvolvimento.com.br) | Cuiabá | Typescript, Javascript, Ionic, HTML, CSS | Firebase, GCP | - | Privada |
+| i9 Desenvolvimento | [Site](http://www.i9desenvolvimento.com.br) | Cuiabá | Typescript, Javascript, Ionic, HTML, CSS | Firebase | GCP | Privada |
 | Inovabit | [Site](http://www.inovabit.com.br) | Cuiabá | - | - | - | Privada |
 | Intelecto Sistemas | [Site](http://www.intelecto.com.br) | Cuiabá | Delphi, Typescript, Ionic, Java, Android, PHP, Laravel, Go | SQL Anywhere, SQL Server, Oracle, SQLite, MySQL | AWS, Locaweb | Privada |
 | JMJ | [Site](https://www.jmjsistemas.com.br) | Sinop | Java, Javascript | - | - | Privada |
