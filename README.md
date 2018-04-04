@@ -6,6 +6,7 @@
 
  * Contribuições são sempre bem-vindas, stars e forks também. :star::star::star: Veja o [Guia de Contribuições](CONTRIBUTING.md).
 
+
 |+Empresa  | Site | Sede | Desenvolvimento | Banco de dados | Cloud | Empresa/Órgão |
 |------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 99jus | [Site](http://www.99jus.com.br) | Cuiabá | Typescript, Javascript, Ionic, HTML, CSS | Firebase | GCP | Privada |
@@ -81,11 +82,12 @@
 | Weeke Aplicativos | [Site](http://www.weeke.com.br) | Cuiabá | - | - | - | Privada |
 | Worx Tecnologia | [Site](http://www.worxtecnologia.com.br) | Cuiabá | - | - | - | Privada |
 
-## [Tabela de uso de tecnologias](technology_usage.md)
-## [Tabela de uso de bancos de dados](database_usage.md)
-## [Tabela de uso de cloud](cloud_usage.md)
-## [Tabela de quantidade de empresas por cidade](city_usage.md)
+# Estatísticas
+## [Linguagens de programação e Tecnologias](technology_usage.md)
+## [Bancos de Dados](database_usage.md)
+## [Cloud](cloud_usage.md)
+## [Empresas por cidade](city_usage.md)
 
-# Veja também
+# Outras referências
 ## [Empresas com trabalho remoto no Brasil](https://github.com/lerrua/remote-jobs-brazil)
 ## [Empresas com trabalho remoto no mundo](https://github.com/remoteintech/remote-jobs)
