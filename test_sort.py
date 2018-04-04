@@ -1,5 +1,4 @@
 import unittest
-import sort
 import os.path
 import re
 import requests
