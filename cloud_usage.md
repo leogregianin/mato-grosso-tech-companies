@@ -1,7 +1,7 @@
 |+Cloud | Count |
 |------------ | -----------|
-| AWS | 8 |
-| GCP | 3 |
+| Amazon AWS | 8 |
+| Google Cloud | 3 |
 | Locaweb | 3 |
 | Digital Ocean | 3 |
 | Azure | 3 |

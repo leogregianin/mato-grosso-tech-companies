@@ -1,9 +1,9 @@
 |+City | Count |
 |------------ | -----------|
-| Cuiabá | 56 |
+| Cuiabá | 59 |
 | Sinop | 6 |
-| Várzea Grande | 4 |
+| Várzea Grande | 5 |
+| Rondonópolis | 3 |
 | Sorriso | 2 |
-| Rondonópolis | 2 |
 | Alta Floresta | 1 |
 | Tangará da Serra | 1 |

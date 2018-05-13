@@ -22,6 +22,7 @@
 | Axys Tecnologia | [Site](http://www.axystecnologia.com.br) | Cuiabá | C# | - | - | Privada |
 | Bitline | [Site](http://www.bitline.com.br) | Cuiabá | Delphi, PHP, HTML, CSS, Javascript, Bootstrap, jQuery | MySQL | | Privada |
 | Blue TI | [Site](http://www.blueti.com.br) | Cuiabá | - | - | - | Privada |
+| Cepobook | [Site](https://cepobook.com/) | Várzea Grande | - | - | - | Privada |
 | Codigo5 | [Site](https://www.codigo5.com.br) | Cuiabá | Ruby, Ruby on Rails, Javascript, React, React Native, PHP, Magento, Wordpress, NodeJS, Ionic, Angular | PostgreSQL, MySQL, Firebase, Redis, SQLite, MongoDB | Heroku, Digital Ocean, Amazon AWS, Nexcess | Privada |
 | Coleta Seletiva .NET| [Site](http://www.coletaseletiva.net.br) | Cuiabá | Javascript, Angular, Ionic, HTML, CSS | - | - | Privada |
 | Connecsoft | [Site](http://www.conecsoft.com.br) | Cuiabá | Delphi, C# | - | - | Privada |
@@ -29,6 +30,7 @@
 | Consignum | [Site](http://www.consignum.com.br) | Cuiabá | Java, JBoss, JSF, Hibernate | PostgreSQL | - | Privada |
 | ControlSoft | [Site](http://www.controlsoft.com.br) | Sorriso | - | - | - | Privada |
 | Coplan | [Site](https://www.coplan.srv.br) | Cuiabá | Java, Genexus | - | - | Privada |
+| Dexatec | [Site](http://dexatec.com) | Rondonópolis | Javascript, jQuery, HTML, CSS, Angular, Python, Ionic | PostgreSQL, MongoDB | - | Privada |
 | Dropo | [Site](http://www.dropo.me) | Cuiabá | ASP.NET, Javascript | - | - | Privada |
 | Duralex | [Site](http://www.duralex.com.br) | Cuiabá | Java, C#, Delphi, HTML, CSS, Javascript | Firebird | - | Privada |
 | Efikase | - | Cuiabá | C#, Delphi | Oracle | - | Privada |
@@ -40,6 +42,7 @@
 | Hetosoft | [Site](http://www.hetosoft.com.br) | Várzea Grande | Delphi, C#, Xamarin | SQL Server, Firebird | Azure | Privada |
 | HTDigital | [Site](www.htdigital.com.br) | Várzea Grande | HTML, CSS, Javascript, jQuery, PHP, C# | - | - | Privada |
 | i9 Desenvolvimento | [Site](http://www.i9desenvolvimento.com.br) | Cuiabá | Typescript, Javascript, Ionic, HTML, CSS | Firebase | Google Cloud | Privada |
+| IGula | [Site](http://www.igula.com.br) | Cuiabá | Typescript, Ionic | - | - | Privada |
 | Inovabit | [Site](http://www.inovabit.com.br) | Cuiabá | - | - | - | Privada |
 | Intelecto Sistemas | [Site](http://www.intelecto.com.br) | Cuiabá | Delphi, Typescript, Ionic, Java, Android, PHP, Laravel, Go | SQL Anywhere, SQL Server, Oracle, SQLite, MySQL | Amazon AWS, Locaweb | Privada |
 | JMJ | [Site](https://www.jmjsistemas.com.br) | Sinop | Java, Javascript | - | - | Privada |
@@ -50,6 +53,7 @@
 | Lotus Sistemas | [Site](http://www.lotussistemas.com) | Sinop | C# | SQL Server | - | Privada |
 | MBoss | [Site](http://www.mboss.com.br) | Sinop | Java, Android | - | - | Privada |
 | MCN Sistemas | [Site](http://www.mcnsistemas.com.br) | Cuiabá | Delphi | - | - | Privada |
+| Movame | [Site](https://movameapp.com.br) | Cuiabá | - | - | - | Privada |
 | Movere Software | [Site](https://moveresoftware.com) | Cuiabá | C# | SQL Server | - | Privada |
 | MPX | [Site](http://www.mpxbrasil.com.br) | Cuiabá | PHP, Javascript | - | - | Privada |
 | MTI | [Site](http://www.mti.mt.gov.br) | Cuiabá | Java, PHP, Javascript | - | - | Público |
@@ -62,6 +66,7 @@
 | Online Engenharia de Sistemas | [Site](http://www.onlinesistemas.net) | Cuiabá | Delphi, C#, ASP.NET | - | - | Privada |
 | Prixx Tecnologia | [Site](http://prixxtecnologia.com.br) | Cuiabá | - | - | - | Privada |
 | Procurix | [Site](http://www.procurix.com.br) | Cuiabá | PHP, Zend Framework, HTML, CSS, Javascript | - | - | Privada |
+| Recicla-e | [Site](http://www.reciclae.com) | Cuiabá | - | - | - | Privada |
 | RFC Inovações | [Site](http://www.rcfinovacoes.com.br) | Cuiabá | Java, PHP, Javascript, Go | - | Amazon AWS | Privada |
 | Secretaria de Fazenda (SEFAZ) | [Site](http://www.sefaz.mt.gov.br) | Cuiabá | Java | - | - | Público |
 | SERPRO | [Site](http://www.serpro.gov.br) | Cuiabá | - | - | - | Público |
