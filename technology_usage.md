@@ -1,50 +1,53 @@
 |+Technology | Count |
 |------------ | -----------|
-| Javascript | 27 |
-| PHP | 24 |
-| Java | 23 |
+| Javascript | 28 |
+| PHP | 25 |
+| Java | 24 |
 | Delphi | 21 |
-| C# | 18 |
-| HTML | 12 |
-| CSS | 12 |
+| C# | 19 |
+| HTML | 13 |
+| CSS | 13 |
 | Ionic | 9 |
-| jQuery | 6 |
-| Android | 6 |
+| jQuery | 7 |
+| Android | 7 |
+| ASP.NET | 6 |
 | Angular | 5 |
-| ASP.NET | 5 |
 | Typescript | 4 |
+| Genexus | 4 |
+| JSF | 4 |
+| Hibernate | 4 |
 | Ruby | 4 |
 | React | 4 |
 | React Native | 4 |
 | NodeJS | 4 |
-| Genexus | 3 |
-| JSF | 3 |
-| Hibernate | 3 |
+| Python | 4 |
 | JBoss | 3 |
-| Python | 3 |
 | Xamarin | 3 |
+| Laravel | 3 |
+| C | 3 |
 | ASP.NET Core | 3 |
 | Vue | 2 |
+| Bootstrap | 2 |
 | Ruby on Rails | 2 |
-| Laravel | 2 |
 | Go | 2 |
 | Zend Framework | 2 |
-| C | 2 |
+| Sistemas Embarcados | 2 |
+| C++ | 2 |
 | Tomcat | 2 |
 | Symfony | 1 |
 | Doctrine | 1 |
-| Bootstrap | 1 |
 | Magento | 1 |
 | Wordpress | 1 |
 | Yii | 1 |
 | Qlik View | 1 |
+| JSP | 1 |
+| Django | 1 |
+| R | 1 |
 | Redux | 1 |
 | Kotlin | 1 |
 | Web | 1 |
 | iOS | 1 |
 | Hardware | 1 |
-| Sistemas Embarcados | 1 |
-| C++ | 1 |
 | Spring | 1 |
 | Ajax | 1 |
 | Wildfly | 1 |

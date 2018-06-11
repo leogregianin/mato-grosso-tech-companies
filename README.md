@@ -59,6 +59,7 @@
 | MTI | [Site](http://www.mti.mt.gov.br) | Cuiabá | Java, PHP, Javascript | - | - | Público |
 | Multiware | [Site](http://www.multiwaretecnologia.com.br) | Sinop | Delphi, Android, React Native, Python, PHP, C, Javascript | PostgreSQL, MySQL | - | Privada |
 | NBS Informática | [Site](http://www.nbsi.com.br) | Cuiabá | Delphi, Java, C# | Oracle | | Privada |
+| NUTI | [Site](http://www.ic.ufmt.br) | Cuiabá | C#, ASP.NET, Java, JSP, JSF, Hibernate, Android, PHP, Laravel, Javascript, jQuery, HTML, CSS, Bootstrap, Sistemas Embarcados, C, C++, Python, Django, R, Genexus | PostgreSQL, MySQL, MongoDB, SQL Server | - | Público |
 | Nuvem Tecnologia | [Site](http://www.nuvem.net) | Cuiabá | C#, ASP.NET, ASP.NET Core, Xamarin, React, Redux, Kotlin |  | Azure, Amazon AWS | Privada |
 | Odeon Tecnologia | [Site](http://www.odeoninformatica.com.br) | Cuiabá | Delphi | SQL Server | - | Privada |
 | Omega Sistemas | [Site](https://omegasistemas.net.br) | Tangará da Serra | Java, Javascript, HTML, CSS, Delphi | - | - | Privada |
