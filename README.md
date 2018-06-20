@@ -22,6 +22,7 @@
 | Axys Tecnologia | [Site](http://www.axystecnologia.com.br) | Cuiabá | C# | - | - | Privada |
 | Bitline | [Site](http://www.bitline.com.br) | Cuiabá | Delphi, PHP, HTML, CSS, Javascript, Bootstrap, jQuery | MySQL | | Privada |
 | Blue TI | [Site](http://www.blueti.com.br) | Cuiabá | - | - | - | Privada |
+| Celta Sistemas | [Site](https://www.celtasistemas.com.br/) | Sinop | Delphi | Firebird | - | Privada |
 | Cepobook | [Site](https://cepobook.com/) | Várzea Grande | - | - | - | Privada |
 | Codigo5 | [Site](https://www.codigo5.com.br) | Cuiabá | Ruby, Ruby on Rails, Javascript, React, React Native, PHP, Magento, Wordpress, NodeJS, Ionic, Angular | PostgreSQL, MySQL, Firebase, Redis, SQLite, MongoDB | Heroku, Digital Ocean, Amazon AWS, Nexcess | Privada |
 | Coleta Seletiva .NET| [Site](http://www.coletaseletiva.net.br) | Cuiabá | Javascript, Angular, Ionic, HTML, CSS | - | - | Privada |

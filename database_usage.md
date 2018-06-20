@@ -6,7 +6,7 @@
 | Oracle | 8 |
 | MongoDB | 6 |
 | Firebase | 5 |
-| Firebird | 4 |
+| Firebird | 5 |
 | SQLite | 4 |
 | Redis | 1 |
 | SQL Anywhere | 1 |
