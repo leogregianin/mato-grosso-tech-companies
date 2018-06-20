@@ -1,6 +1,6 @@
 |+Database | Count |
 |------------ | -----------|
-| MySQL | 13 |
+| MySQL | 14 |
 | SQL Server | 12 |
 | PostgreSQL | 11 |
 | Oracle | 8 |

@@ -31,6 +31,7 @@
 | Consignum | [Site](http://www.consignum.com.br) | Cuiabá | Java, JBoss, JSF, Hibernate | PostgreSQL | - | Privada |
 | ControlSoft | [Site](http://www.controlsoft.com.br) | Sorriso | - | - | - | Privada |
 | Coplan | [Site](https://www.coplan.srv.br) | Cuiabá | Java, Genexus | - | - | Privada |
+| Data Norte Sistemas | [Site](http://datanorte.com.br/) | Sinop | Delphi, PHP | MySQL | - | Privada |
 | Dexatec | [Site](http://dexatec.com) | Rondonópolis | Javascript, jQuery, HTML, CSS, Angular, Python, Ionic | PostgreSQL, MongoDB | - | Privada |
 | Dropo | [Site](http://www.dropo.me) | Cuiabá | ASP.NET, Javascript | - | - | Privada |
 | Duralex | [Site](http://www.duralex.com.br) | Cuiabá | Java, C#, Delphi, HTML, CSS, Javascript | Firebird | - | Privada |
