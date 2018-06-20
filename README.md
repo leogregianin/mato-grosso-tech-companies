@@ -74,6 +74,7 @@
 | Secretaria de Fazenda (SEFAZ) | [Site](http://www.sefaz.mt.gov.br) | Cuiabá | Java | - | - | Público |
 | SERPRO | [Site](http://www.serpro.gov.br) | Cuiabá | - | - | - | Público |
 | Sizy | [Site](http://www.sizy.com.br) | Várzea Grande | Ruby, Ruby on Rails, PHP | PostgreSQL, MySQL, SQL Server | - | Privada |
+| SOFT42 | [Site](https://soft42.com/) | Sinop | PHP, NodeJS, Java | MySQL, PostgreSQL | - | Privada |
 | Softsul | [Site](http://softsulsistemas.com.br) | Rondonópolis | PHP, Laravel, Javascript, NodeJS, React, React Native, Ionic, Delphi, HTML, CSS, Java | Oracle, MySQL | Amazon AWS, Digital Ocean, Vultr | Privada |
 | Sydy | [Site](http://www.sydy.com.br) | Cuiabá | C#, ASP.NET, ASP.NET Core, Android, Xamarin, Vue, Javascript, NodeJS | PostgreSQL, SQL Server, MySQL, MongoDB, SQLite, Firebase | Azure, Amazon AWS | Privada |
 | Symetria | [Site](http://www.simetrya.com.br) | Cuiabá | Java, Spring, JSF, Hibernate, Javascript, jQuery, Ajax | - | - | Privada |

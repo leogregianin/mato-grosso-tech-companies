@@ -1,8 +1,8 @@
 |+Database | Count |
 |------------ | -----------|
-| MySQL | 14 |
+| MySQL | 15 |
+| PostgreSQL | 12 |
 | SQL Server | 12 |
-| PostgreSQL | 11 |
 | Oracle | 8 |
 | MongoDB | 6 |
 | Firebase | 5 |
