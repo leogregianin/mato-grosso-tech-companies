@@ -1,9 +1,9 @@
 |+Technology | Count |
 |------------ | -----------|
 | Javascript | 28 |
-| PHP | 25 |
-| Java | 24 |
-| Delphi | 21 |
+| PHP | 27 |
+| Java | 25 |
+| Delphi | 23 |
 | C# | 19 |
 | HTML | 13 |
 | CSS | 13 |
@@ -12,6 +12,7 @@
 | Android | 7 |
 | ASP.NET | 6 |
 | Angular | 5 |
+| NodeJS | 5 |
 | Typescript | 4 |
 | Genexus | 4 |
 | JSF | 4 |
@@ -19,7 +20,6 @@
 | Ruby | 4 |
 | React | 4 |
 | React Native | 4 |
-| NodeJS | 4 |
 | Python | 4 |
 | JBoss | 3 |
 | Xamarin | 3 |

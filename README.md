@@ -22,6 +22,7 @@
 | Axys Tecnologia | [Site](http://www.axystecnologia.com.br) | Cuiabá | C# | - | - | Privada |
 | Bitline | [Site](http://www.bitline.com.br) | Cuiabá | Delphi, PHP, HTML, CSS, Javascript, Bootstrap, jQuery | MySQL | | Privada |
 | Blue TI | [Site](http://www.blueti.com.br) | Cuiabá | - | - | - | Privada |
+| Celta Sistemas | [Site](https://www.celtasistemas.com.br/) | Sinop | Delphi | Firebird | - | Privada |
 | Cepobook | [Site](https://cepobook.com/) | Várzea Grande | - | - | - | Privada |
 | Codigo5 | [Site](https://www.codigo5.com.br) | Cuiabá | Ruby, Ruby on Rails, Javascript, React, React Native, PHP, Magento, Wordpress, NodeJS, Ionic, Angular | PostgreSQL, MySQL, Firebase, Redis, SQLite, MongoDB | Heroku, Digital Ocean, Amazon AWS, Nexcess | Privada |
 | Coleta Seletiva .NET| [Site](http://www.coletaseletiva.net.br) | Cuiabá | Javascript, Angular, Ionic, HTML, CSS | - | - | Privada |
@@ -30,6 +31,7 @@
 | Consignum | [Site](http://www.consignum.com.br) | Cuiabá | Java, JBoss, JSF, Hibernate | PostgreSQL | - | Privada |
 | ControlSoft | [Site](http://www.controlsoft.com.br) | Sorriso | - | - | - | Privada |
 | Coplan | [Site](https://www.coplan.srv.br) | Cuiabá | Java, Genexus | - | - | Privada |
+| Data Norte Sistemas | [Site](http://datanorte.com.br/) | Sinop | Delphi, PHP | MySQL | - | Privada |
 | Dexatec | [Site](http://dexatec.com) | Rondonópolis | Javascript, jQuery, HTML, CSS, Angular, Python, Ionic | PostgreSQL, MongoDB | - | Privada |
 | Dropo | [Site](http://www.dropo.me) | Cuiabá | ASP.NET, Javascript | - | - | Privada |
 | Duralex | [Site](http://www.duralex.com.br) | Cuiabá | Java, C#, Delphi, HTML, CSS, Javascript | Firebird | - | Privada |
@@ -72,6 +74,7 @@
 | Secretaria de Fazenda (SEFAZ) | [Site](http://www.sefaz.mt.gov.br) | Cuiabá | Java | - | - | Público |
 | SERPRO | [Site](http://www.serpro.gov.br) | Cuiabá | - | - | - | Público |
 | Sizy | [Site](http://www.sizy.com.br) | Várzea Grande | Ruby, Ruby on Rails, PHP | PostgreSQL, MySQL, SQL Server | - | Privada |
+| SOFT42 | [Site](https://soft42.com/) | Sinop | PHP, NodeJS, Java | MySQL, PostgreSQL | - | Privada |
 | Softsul | [Site](http://softsulsistemas.com.br) | Rondonópolis | PHP, Laravel, Javascript, NodeJS, React, React Native, Ionic, Delphi, HTML, CSS, Java | Oracle, MySQL | Amazon AWS, Digital Ocean, Vultr | Privada |
 | Sydy | [Site](http://www.sydy.com.br) | Cuiabá | C#, ASP.NET, ASP.NET Core, Android, Xamarin, Vue, Javascript, NodeJS | PostgreSQL, SQL Server, MySQL, MongoDB, SQLite, Firebase | Azure, Amazon AWS | Privada |
 | Symetria | [Site](http://www.simetrya.com.br) | Cuiabá | Java, Spring, JSF, Hibernate, Javascript, jQuery, Ajax | - | - | Privada |
