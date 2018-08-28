@@ -11,7 +11,6 @@
 
 |+Empresa  | Site | Sede | Desenvolvimento | Banco de dados | Cloud | Empresa/Órgão |
 |------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 99jus | [Site](http://www.99jus.com.br) | Cuiabá | Typescript, Javascript, Ionic, HTML, CSS | Firebase | Google Cloud | Privada |
 | Abaco | [Site](http://www.abaco.com.br) | Cuiabá | Genexus, Javascript, Angular, Java | Oracle | - | Privada |
 | Absolut | [Site](http://www.absolutsistemas.com.br/) | Sinop | Delphi | Firebird | - | Privada |
 | AgenSite | [Site](http://www.agensite.com) | Cuiabá | PHP, Javascript | - | Amazon AWS, Locaweb | Privada |
@@ -46,7 +45,7 @@
 | i9 Desenvolvimento | [Site](http://www.i9desenvolvimento.com.br) | Cuiabá | Typescript, Javascript, Ionic, HTML, CSS | Firebase | Google Cloud | Privada |
 | IGula | [Site](http://www.igula.com.br) | Cuiabá | Typescript, Ionic | - | - | Privada |
 | Inovabit | [Site](http://www.inovabit.com.br) | Cuiabá | - | - | - | Privada |
-| Intelecto Sistemas | [Site](http://www.intelecto.com.br) | Cuiabá | Delphi, Typescript, Ionic, Java, Android, PHP, Laravel, Go | SQL Anywhere, SQL Server, Oracle, SQLite, MySQL | Amazon AWS, Locaweb | Privada |
+| Intelecto Sistemas | [Site](http://www.intelecto.com.br) | Cuiabá | Delphi, Typescript, Ionic, Java, Android, PHP, Laravel, Python, PowerBI | SQL Anywhere, SQL Server, Oracle, SQLite, MySQL | Amazon AWS, Azure, Locaweb | Privada |
 | JMJ | [Site](https://www.jmjsistemas.com.br) | Sinop | Java, Javascript | - | - | Privada |
 | Junta Comercial (Jucemat) | [Site](http://www.jucemat.mt.gov.br) | Cuiabá | Ruby | - | - | Público |
 | Kasterweb | [Site](http://www.kasterweb.com.br) | Cuiabá | PHP, Zend Framework | MySQL | - | Privada |

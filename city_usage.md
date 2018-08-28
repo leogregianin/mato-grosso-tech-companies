@@ -1,6 +1,6 @@
 |+City | Count |
 |------------ | -----------|
-| Cuiabá | 60 |
+| Cuiabá | 59 |
 | Sinop | 9 |
 | Várzea Grande | 5 |
 | Rondonópolis | 3 |

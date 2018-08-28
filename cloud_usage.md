@@ -1,10 +1,10 @@
 |+Cloud | Count |
 |------------ | -----------|
 | Amazon AWS | 8 |
-| Google Cloud | 3 |
+| Azure | 4 |
 | Locaweb | 3 |
 | Digital Ocean | 3 |
-| Azure | 3 |
+| Google Cloud | 2 |
 | Heroku | 1 |
 | Nexcess | 1 |
 | Contabo | 1 |
