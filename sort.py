@@ -1,5 +1,6 @@
 # coding: utf-8
 from collections import Counter
+import json
 
 stats = {'city': 3, 'technology': 4, 'database': 5, 'cloud': 6}
 
@@ -13,6 +14,8 @@ def generate_charts(chart_type):
         for columns_name in sorted_columns_names:
             count = columns[columns_name]
             f.write(f'| {columns_name} | {count} |\n')
+    with open(f'{chart_type}_usage.json', 'w+', encoding='UTF-8') as f:
+        json.dump(columns, f, sort_keys=True, indent=2, ensure_ascii=False)
 
 def filter_columns(readme_file, column_number):
     counter = Counter()
