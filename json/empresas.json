@@ -1,0 +1,1117 @@
+{
+  "Abaco": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": [
+      "Oracle"
+    ],
+    "site": "http://www.abaco.com.br",
+    "technology": [
+      "Genexus",
+      "Javascript",
+      "Angular",
+      "Java"
+    ],
+    "type": "Privada"
+  },
+  "Absolut": {
+    "city": "Sinop",
+    "cloud": null,
+    "database": [
+      "Firebird"
+    ],
+    "site": "http://www.absolutsistemas.com.br/",
+    "technology": [
+      "Delphi"
+    ],
+    "type": "Privada"
+  },
+  "AgenSite": {
+    "city": "Cuiabá",
+    "cloud": [
+      "Amazon AWS",
+      "Locaweb"
+    ],
+    "database": null,
+    "site": "http://www.agensite.com",
+    "technology": [
+      "PHP",
+      "Javascript"
+    ],
+    "type": "Privada"
+  },
+  "AgriRent": {
+    "city": "Sinop",
+    "cloud": [
+      "Locaweb"
+    ],
+    "database": [
+      "MySQL"
+    ],
+    "site": "http://www.agrirent.com.br",
+    "technology": [
+      "PHP",
+      "Symfony",
+      "Doctrine",
+      "Vue"
+    ],
+    "type": "Privada"
+  },
+  "AgroV": {
+    "city": "Cuiabá",
+    "cloud": [
+      "Digital Ocean"
+    ],
+    "database": [
+      "PostgreSQL"
+    ],
+    "site": "http://www.agrov.com.br",
+    "technology": [
+      "Java",
+      "JSF",
+      "Hibernate"
+    ],
+    "type": "Privada"
+  },
+  "AloW": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.alow.com.br",
+    "technology": null,
+    "type": "Privada"
+  },
+  "Angel Sistemas": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.angelsistemas.com.br",
+    "technology": [
+      "Delphi",
+      "C#"
+    ],
+    "type": "Privada"
+  },
+  "Axys Tecnologia": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.axystecnologia.com.br",
+    "technology": [
+      "C#"
+    ],
+    "type": "Privada"
+  },
+  "Bitline": {
+    "city": "Cuiabá",
+    "cloud": [
+      ""
+    ],
+    "database": [
+      "MySQL"
+    ],
+    "site": "http://www.bitline.com.br",
+    "technology": [
+      "Delphi",
+      "PHP",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Bootstrap",
+      "jQuery"
+    ],
+    "type": "Privada"
+  },
+  "Blue TI": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.blueti.com.br",
+    "technology": null,
+    "type": "Privada"
+  },
+  "Celta Sistemas": {
+    "city": "Sinop",
+    "cloud": null,
+    "database": [
+      "Firebird"
+    ],
+    "site": "https://www.celtasistemas.com.br/",
+    "technology": [
+      "Delphi"
+    ],
+    "type": "Privada"
+  },
+  "Cepobook": {
+    "city": "Várzea Grande",
+    "cloud": null,
+    "database": null,
+    "site": "https://cepobook.com/",
+    "technology": null,
+    "type": "Privada"
+  },
+  "Codigo5": {
+    "city": "Cuiabá",
+    "cloud": [
+      "Heroku",
+      "Digital Ocean",
+      "Amazon AWS",
+      "Nexcess"
+    ],
+    "database": [
+      "PostgreSQL",
+      "MySQL",
+      "Firebase",
+      "Redis",
+      "SQLite",
+      "MongoDB"
+    ],
+    "site": "https://www.codigo5.com.br",
+    "technology": [
+      "Ruby",
+      "Ruby on Rails",
+      "Javascript",
+      "React",
+      "React Native",
+      "PHP",
+      "Magento",
+      "Wordpress",
+      "NodeJS",
+      "Ionic",
+      "Angular"
+    ],
+    "type": "Privada"
+  },
+  "Coleta Seletiva .NET": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.coletaseletiva.net.br",
+    "technology": [
+      "Javascript",
+      "Angular",
+      "Ionic",
+      "HTML",
+      "CSS"
+    ],
+    "type": "Privada"
+  },
+  "Connecsoft": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.conecsoft.com.br",
+    "technology": [
+      "Delphi",
+      "C#"
+    ],
+    "type": "Privada"
+  },
+  "Connect Sotware": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": [
+      "MySQL"
+    ],
+    "site": "http://www.connect.com.vc",
+    "technology": [
+      "Delphi",
+      "C#",
+      "PHP"
+    ],
+    "type": "Privada"
+  },
+  "Consignum": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": [
+      "PostgreSQL"
+    ],
+    "site": "http://www.consignum.com.br",
+    "technology": [
+      "Java",
+      "JBoss",
+      "JSF",
+      "Hibernate"
+    ],
+    "type": "Privada"
+  },
+  "ControlSoft": {
+    "city": "Sorriso",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.controlsoft.com.br",
+    "technology": null,
+    "type": "Privada"
+  },
+  "Coplan": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "https://www.coplan.srv.br",
+    "technology": [
+      "Java",
+      "Genexus"
+    ],
+    "type": "Privada"
+  },
+  "Data Norte Sistemas": {
+    "city": "Sinop",
+    "cloud": null,
+    "database": [
+      "MySQL"
+    ],
+    "site": "http://datanorte.com.br/",
+    "technology": [
+      "Delphi",
+      "PHP"
+    ],
+    "type": "Privada"
+  },
+  "Dexatec": {
+    "city": "Rondonópolis",
+    "cloud": null,
+    "database": [
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "site": "http://dexatec.com",
+    "technology": [
+      "Javascript",
+      "jQuery",
+      "HTML",
+      "CSS",
+      "Angular",
+      "Python",
+      "Ionic"
+    ],
+    "type": "Privada"
+  },
+  "Dropo": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.dropo.me",
+    "technology": [
+      "ASP.NET",
+      "Javascript"
+    ],
+    "type": "Privada"
+  },
+  "Duralex": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": [
+      "Firebird"
+    ],
+    "site": "http://www.duralex.com.br",
+    "technology": [
+      "Java",
+      "C#",
+      "Delphi",
+      "HTML",
+      "CSS",
+      "Javascript"
+    ],
+    "type": "Privada"
+  },
+  "Efikase": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": [
+      "Oracle"
+    ],
+    "site": "-",
+    "technology": [
+      "C#",
+      "Delphi"
+    ],
+    "type": "Privada"
+  },
+  "Ello tecnologia": {
+    "city": "Alta Floresta",
+    "cloud": null,
+    "database": [
+      "Firebird",
+      "PostgreSQL"
+    ],
+    "site": "http://www.ellotecnologia.net.br",
+    "technology": [
+      "Delphi",
+      "Android",
+      "Python",
+      "Javascript",
+      "PHP",
+      "Yii"
+    ],
+    "type": "Privada"
+  },
+  "Eptus Corporation": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.brasil.eptus.com.br",
+    "technology": [
+      "Delphi",
+      "PHP"
+    ],
+    "type": "Privada"
+  },
+  "Estuda.com": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.estuda.com",
+    "technology": [
+      "PHP",
+      "React Native"
+    ],
+    "type": "Privada"
+  },
+  "Expert BI": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": [
+      "SQL Server"
+    ],
+    "site": "http://www.expertbi.com.br",
+    "technology": [
+      "Qlik View"
+    ],
+    "type": "Privada"
+  },
+  "HTDigital": {
+    "city": "Várzea Grande",
+    "cloud": null,
+    "database": null,
+    "site": "www.htdigital.com.br",
+    "technology": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "jQuery",
+      "PHP",
+      "C#"
+    ],
+    "type": "Privada"
+  },
+  "Harmony Sistemas": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.harmonysistemas.com.br",
+    "technology": null,
+    "type": "Privada"
+  },
+  "Hetosoft": {
+    "city": "Várzea Grande",
+    "cloud": [
+      "Azure"
+    ],
+    "database": [
+      "SQL Server",
+      "Firebird"
+    ],
+    "site": "http://www.hetosoft.com.br",
+    "technology": [
+      "Delphi",
+      "C#",
+      "Xamarin"
+    ],
+    "type": "Privada"
+  },
+  "IGula": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.igula.com.br",
+    "technology": [
+      "Typescript",
+      "Ionic"
+    ],
+    "type": "Privada"
+  },
+  "Inovabit": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.inovabit.com.br",
+    "technology": null,
+    "type": "Privada"
+  },
+  "Intelecto Sistemas": {
+    "city": "Cuiabá",
+    "cloud": [
+      "Amazon AWS",
+      "Azure",
+      "Locaweb"
+    ],
+    "database": [
+      "SQL Anywhere",
+      "SQL Server",
+      "Oracle",
+      "SQLite",
+      "MySQL"
+    ],
+    "site": "http://www.intelecto.com.br",
+    "technology": [
+      "Delphi",
+      "Typescript",
+      "Ionic",
+      "Java",
+      "Android",
+      "PHP",
+      "Laravel",
+      "Python",
+      "PowerBI"
+    ],
+    "type": "Privada"
+  },
+  "JMJ": {
+    "city": "Sinop",
+    "cloud": null,
+    "database": null,
+    "site": "https://www.jmjsistemas.com.br",
+    "technology": [
+      "Java",
+      "Javascript"
+    ],
+    "type": "Privada"
+  },
+  "Junta Comercial (Jucemat)": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.jucemat.mt.gov.br",
+    "technology": [
+      "Ruby"
+    ],
+    "type": "Público"
+  },
+  "KS Tecnologia": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://kstecnologia.com.br",
+    "technology": null,
+    "type": "Privada"
+  },
+  "Kasterweb": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": [
+      "MySQL"
+    ],
+    "site": "http://www.kasterweb.com.br",
+    "technology": [
+      "PHP",
+      "Zend Framework"
+    ],
+    "type": "Privada"
+  },
+  "Kpersoft": {
+    "city": "Rondonópolis",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.kpersoft.com.br",
+    "technology": null,
+    "type": "Privada"
+  },
+  "Lotus Sistemas": {
+    "city": "Sinop",
+    "cloud": null,
+    "database": [
+      "SQL Server"
+    ],
+    "site": "http://www.lotussistemas.com",
+    "technology": [
+      "C#"
+    ],
+    "type": "Privada"
+  },
+  "MBoss": {
+    "city": "Sinop",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.mboss.com.br",
+    "technology": [
+      "Java",
+      "Android"
+    ],
+    "type": "Privada"
+  },
+  "MCN Sistemas": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.mcnsistemas.com.br",
+    "technology": [
+      "Delphi"
+    ],
+    "type": "Privada"
+  },
+  "MPX": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.mpxbrasil.com.br",
+    "technology": [
+      "PHP",
+      "Javascript"
+    ],
+    "type": "Privada"
+  },
+  "MTI": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.mti.mt.gov.br",
+    "technology": [
+      "Java",
+      "PHP",
+      "Javascript"
+    ],
+    "type": "Público"
+  },
+  "Movame": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "https://movameapp.com.br",
+    "technology": null,
+    "type": "Privada"
+  },
+  "Movere Software": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": [
+      "SQL Server"
+    ],
+    "site": "https://moveresoftware.com",
+    "technology": [
+      "C#"
+    ],
+    "type": "Privada"
+  },
+  "Multiware": {
+    "city": "Sinop",
+    "cloud": null,
+    "database": [
+      "PostgreSQL",
+      "MySQL"
+    ],
+    "site": "http://www.multiwaretecnologia.com.br",
+    "technology": [
+      "Delphi",
+      "Android",
+      "React Native",
+      "Python",
+      "PHP",
+      "C",
+      "Javascript"
+    ],
+    "type": "Privada"
+  },
+  "NBS Informática": {
+    "city": "Cuiabá",
+    "cloud": [
+      ""
+    ],
+    "database": [
+      "Oracle"
+    ],
+    "site": "http://www.nbsi.com.br",
+    "technology": [
+      "Delphi",
+      "Java",
+      "C#"
+    ],
+    "type": "Privada"
+  },
+  "NUTI": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "SQL Server"
+    ],
+    "site": "http://www.ic.ufmt.br",
+    "technology": [
+      "C#",
+      "ASP.NET",
+      "Java",
+      "JSP",
+      "JSF",
+      "Hibernate",
+      "Android",
+      "PHP",
+      "Laravel",
+      "Javascript",
+      "jQuery",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Sistemas Embarcados",
+      "C",
+      "C++",
+      "Python",
+      "Django",
+      "R",
+      "Genexus"
+    ],
+    "type": "Público"
+  },
+  "Nuvem Tecnologia": {
+    "city": "Cuiabá",
+    "cloud": [
+      "Azure",
+      "Amazon AWS"
+    ],
+    "database": [
+      ""
+    ],
+    "site": "http://www.nuvem.net",
+    "technology": [
+      "C#",
+      "ASP.NET",
+      "ASP.NET Core",
+      "Xamarin",
+      "React",
+      "Redux",
+      "Kotlin"
+    ],
+    "type": "Privada"
+  },
+  "Odeon Tecnologia": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": [
+      "SQL Server"
+    ],
+    "site": "http://www.odeoninformatica.com.br",
+    "technology": [
+      "Delphi"
+    ],
+    "type": "Privada"
+  },
+  "Omega Sistemas": {
+    "city": "Tangará da Serra",
+    "cloud": null,
+    "database": null,
+    "site": "https://omegasistemas.net.br",
+    "technology": [
+      "Java",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "Delphi"
+    ],
+    "type": "Privada"
+  },
+  "OniQ Tecnologia": {
+    "city": "Cuiabá",
+    "cloud": [
+      "Amazon AWS",
+      "Google Cloud",
+      "Contabo"
+    ],
+    "database": [
+      "MySQL",
+      "PostgreSQL",
+      "Oracle",
+      "SQLite",
+      "MongoDB",
+      "Firebase"
+    ],
+    "site": "http://oniq.com.br",
+    "technology": [
+      "Java",
+      "Javascript",
+      "NodeJS",
+      "Web",
+      "Ionic",
+      "iOS",
+      "Android",
+      "Hardware",
+      "Sistemas Embarcados",
+      "C",
+      "C++",
+      "PHP"
+    ],
+    "type": "Privada"
+  },
+  "Online Engenharia de Sistemas": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.onlinesistemas.net",
+    "technology": [
+      "Delphi",
+      "C#",
+      "ASP.NET"
+    ],
+    "type": "Privada"
+  },
+  "Prixx Tecnologia": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://prixxtecnologia.com.br",
+    "technology": null,
+    "type": "Privada"
+  },
+  "Procurix": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.procurix.com.br",
+    "technology": [
+      "PHP",
+      "Zend Framework",
+      "HTML",
+      "CSS",
+      "Javascript"
+    ],
+    "type": "Privada"
+  },
+  "RFC Inovações": {
+    "city": "Cuiabá",
+    "cloud": [
+      "Amazon AWS"
+    ],
+    "database": null,
+    "site": "http://www.rcfinovacoes.com.br",
+    "technology": [
+      "Java",
+      "PHP",
+      "Javascript",
+      "Go"
+    ],
+    "type": "Privada"
+  },
+  "Recicla-e": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.reciclae.com",
+    "technology": null,
+    "type": "Privada"
+  },
+  "SERPRO": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.serpro.gov.br",
+    "technology": null,
+    "type": "Público"
+  },
+  "SOFT42": {
+    "city": "Sinop",
+    "cloud": null,
+    "database": [
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "site": "https://soft42.com/",
+    "technology": [
+      "PHP",
+      "NodeJS",
+      "Java"
+    ],
+    "type": "Privada"
+  },
+  "Secretaria de Fazenda (SEFAZ)": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.sefaz.mt.gov.br",
+    "technology": [
+      "Java"
+    ],
+    "type": "Público"
+  },
+  "Sizy": {
+    "city": "Várzea Grande",
+    "cloud": null,
+    "database": [
+      "PostgreSQL",
+      "MySQL",
+      "SQL Server"
+    ],
+    "site": "http://www.sizy.com.br",
+    "technology": [
+      "Ruby",
+      "Ruby on Rails",
+      "PHP"
+    ],
+    "type": "Privada"
+  },
+  "Softsul": {
+    "city": "Rondonópolis",
+    "cloud": [
+      "Amazon AWS",
+      "Digital Ocean",
+      "Vultr"
+    ],
+    "database": [
+      "Oracle",
+      "MySQL"
+    ],
+    "site": "http://softsulsistemas.com.br",
+    "technology": [
+      "PHP",
+      "Laravel",
+      "Javascript",
+      "NodeJS",
+      "React",
+      "React Native",
+      "Ionic",
+      "Delphi",
+      "HTML",
+      "CSS",
+      "Java"
+    ],
+    "type": "Privada"
+  },
+  "Sydy": {
+    "city": "Cuiabá",
+    "cloud": [
+      "Azure",
+      "Amazon AWS"
+    ],
+    "database": [
+      "PostgreSQL",
+      "SQL Server",
+      "MySQL",
+      "MongoDB",
+      "SQLite",
+      "Firebase"
+    ],
+    "site": "http://www.sydy.com.br",
+    "technology": [
+      "C#",
+      "ASP.NET",
+      "ASP.NET Core",
+      "Android",
+      "Xamarin",
+      "Vue",
+      "Javascript",
+      "NodeJS"
+    ],
+    "type": "Privada"
+  },
+  "Symetria": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.simetrya.com.br",
+    "technology": [
+      "Java",
+      "Spring",
+      "JSF",
+      "Hibernate",
+      "Javascript",
+      "jQuery",
+      "Ajax"
+    ],
+    "type": "Privada"
+  },
+  "Tham Sistemas": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.tham.com.br",
+    "technology": [
+      "Delphi"
+    ],
+    "type": "Privada"
+  },
+  "Totem TI": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.totemti.com.br",
+    "technology": [
+      "Java",
+      "C#"
+    ],
+    "type": "Privada"
+  },
+  "TreinaTOM": {
+    "city": "Sorriso",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.treinatom.com.br",
+    "technology": [
+      "Ruby",
+      "Javascript"
+    ],
+    "type": "Privada"
+  },
+  "Tribunal Regional Eleitoral (TRE)": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": [
+      "Oracle"
+    ],
+    "site": "http://www.tre-mt.jus.br",
+    "technology": [
+      "Java",
+      "JBoss",
+      "Wildfly",
+      "Tomcat"
+    ],
+    "type": "Público"
+  },
+  "Tribunal Regional do Trabalho (TRT)": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.trt23.jus.br",
+    "technology": [
+      "Java",
+      "JBoss",
+      "Tomcat"
+    ],
+    "type": "Público"
+  },
+  "Tribunal de Contas (TCE)": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.tce.mt.gov.br",
+    "technology": [
+      "Delphi",
+      "PHP",
+      "C#",
+      "Genexus",
+      "Java"
+    ],
+    "type": "Público"
+  },
+  "Tribunal de Justiça (TJ)": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": [
+      "SQL Server",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "site": "http://www.tjmt.jus.br",
+    "technology": [
+      "C#",
+      "ASP.NET",
+      "ASP.NET Core",
+      "Java",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "jQuery",
+      "Angular",
+      "React"
+    ],
+    "type": "Público"
+  },
+  "Trinix": {
+    "city": "Cuiabá",
+    "cloud": [
+      ""
+    ],
+    "database": [
+      "MySQL",
+      "Oracle",
+      "SQL Server"
+    ],
+    "site": "http://www.trinix.com.br",
+    "technology": [
+      "PHP",
+      "Javascript",
+      "jQuery",
+      "HTML",
+      "CSS"
+    ],
+    "type": "Privada"
+  },
+  "UNIC": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.unic.com.br",
+    "technology": [
+      "Java"
+    ],
+    "type": "Privada"
+  },
+  "UNIVAG": {
+    "city": "Várzea Grande",
+    "cloud": null,
+    "database": [
+      "SQL Server"
+    ],
+    "site": "http://www.univag.edu.br",
+    "technology": [
+      "C#",
+      "PHP"
+    ],
+    "type": "Privada"
+  },
+  "Vector Informática": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.vectorinf.com.br",
+    "technology": [
+      "Delphi",
+      "PHP",
+      "Java"
+    ],
+    "type": "Privada"
+  },
+  "Webflavia": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.webflavia.com.br",
+    "technology": [
+      "PHP",
+      "Javascript"
+    ],
+    "type": "Privada"
+  },
+  "Weeke Aplicativos": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.weeke.com.br",
+    "technology": null,
+    "type": "Privada"
+  },
+  "Worx Tecnologia": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "http://www.worxtecnologia.com.br",
+    "technology": null,
+    "type": "Privada"
+  },
+  "i9 Desenvolvimento": {
+    "city": "Cuiabá",
+    "cloud": [
+      "Google Cloud"
+    ],
+    "database": [
+      "Firebase"
+    ],
+    "site": "http://www.i9desenvolvimento.com.br",
+    "technology": [
+      "Typescript",
+      "Javascript",
+      "Ionic",
+      "HTML",
+      "CSS"
+    ],
+    "type": "Privada"
+  }
+}
