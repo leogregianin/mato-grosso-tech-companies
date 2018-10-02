@@ -1,6 +1,7 @@
 # coding: utf-8
 from collections import Counter
 import json
+import os
 
 stats = {'city': 3, 'technology': 4, 'database': 5, 'cloud': 6}
 
@@ -14,7 +15,7 @@ def generate_charts(chart_type):
         for columns_name in sorted_columns_names:
             count = columns[columns_name]
             f.write(f'| {columns_name} | {count} |\n')
-    with open(f'{chart_type}_usage.json', 'w+', encoding='UTF-8') as f:
+    with open(f'json/{chart_type}_usage.json', 'w+', encoding='UTF-8') as f:
         json.dump(columns, f, sort_keys=True, indent=2, ensure_ascii=False)
 
 def filter_columns(readme_file, column_number):
@@ -51,27 +52,30 @@ def sort():
         else:
             blocks.append([line])
             last_indent = None
-
+    try:
+        os.stat('json')
+    except:
+        os.mkdir('json')       
     with open('README.md', 'w+', encoding='UTF-8') as sorted_file:
         blocks = [''.join(sorted(block, key=lambda s: s.lower())) for block in blocks]
         sorted_file.write(''.join(blocks))
     
-        with open(f'empresas.json', 'w+', encoding='UTF-8') as f:
-        for block in blocks:
-            if block.startswith('| '):
-                l_block = block.splitlines()
-        ciaList = {}
-        for cia in l_block:
-            ciacol = (cia.split('|'))
-            name = ciacol[1].strip()
-            site = ciacol[2].strip().replace('[Site](','').replace(')','')
-            city = None if ciacol[3].strip() == '-' else ciacol[3].strip()
-            technology = None if ciacol[4].strip() == '-' else ciacol[4].strip().split(', ')
-            database = None if ciacol[5].strip() == '-' else ciacol[5].strip().split(', ')
-            cloud = None if ciacol[6].strip() == '-' else ciacol[6].strip().split(', ')
-            tipo = ciacol[7].strip()
-            ciaList[name] = {'site': site, 'city': city, 'technology': technology , 'database': database ,'cloud': cloud ,'type': tipo}
-        json.dump(ciaList, f, sort_keys=True, indent=2, ensure_ascii=False)
+        with open(f'json/empresas.json', 'w+', encoding='UTF-8') as f:
+            for block in blocks:
+                if block.startswith('| '):
+                    l_block = block.splitlines()
+            ciaList = {}
+            for cia in l_block:
+                ciacol = (cia.split('|'))
+                name = ciacol[1].strip()
+                site = ciacol[2].strip().replace('[Site](','').replace(')','')
+                city = None if ciacol[3].strip() == '-' else ciacol[3].strip()
+                technology = None if ciacol[4].strip() == '-' else ciacol[4].strip().split(', ')
+                database = None if ciacol[5].strip() == '-' else ciacol[5].strip().split(', ')
+                cloud = None if ciacol[6].strip() == '-' else ciacol[6].strip().split(', ')
+                tipo = ciacol[7].strip()
+                ciaList[name] = {'site': site, 'city': city, 'technology': technology , 'database': database ,'cloud': cloud ,'type': tipo}
+            json.dump(ciaList, f, sort_keys=True, indent=2, ensure_ascii=False)
 
     for chart_type in stats.keys():
         generate_charts(chart_type)
