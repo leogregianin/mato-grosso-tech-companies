@@ -59,6 +59,7 @@
 | MPX | [Site](http://www.mpxbrasil.com.br) | Cuiabá | PHP, Javascript | - | - | Privada |
 | MTI | [Site](http://www.mti.mt.gov.br) | Cuiabá | Java, PHP, Javascript | - | - | Público |
 | Multiware | [Site](http://www.multiwaretecnologia.com.br) | Sinop | Delphi, Android, React Native, Python, PHP, C, Javascript | PostgreSQL, MySQL | - | Privada |
+| Naja Software | [Site](http://http://www.najasoftware.com.br) | Rondonópolis | - | - | - | Privada |
 | NBS Informática | [Site](http://www.nbsi.com.br) | Cuiabá | Delphi, Java, C# | Oracle | | Privada |
 | NUTI | [Site](http://www.ic.ufmt.br) | Cuiabá | C#, ASP.NET, Java, JSP, JSF, Hibernate, Android, PHP, Laravel, Javascript, jQuery, HTML, CSS, Bootstrap, Sistemas Embarcados, C, C++, Python, Django, R, Genexus | PostgreSQL, MySQL, MongoDB, SQL Server | - | Público |
 | Nuvem Tecnologia | [Site](http://www.nuvem.net) | Cuiabá | C#, ASP.NET, ASP.NET Core, Xamarin, React, Redux, Kotlin |  | Azure, Amazon AWS | Privada |
@@ -66,6 +67,7 @@
 | Omega Sistemas | [Site](https://omegasistemas.net.br) | Tangará da Serra | Java, Javascript, HTML, CSS, Delphi | - | - | Privada |
 | OniQ Tecnologia | [Site](http://oniq.com.br) | Cuiabá | Java, Javascript, NodeJS, Web, Ionic, iOS, Android, Hardware, Sistemas Embarcados, C, C++, PHP | MySQL, PostgreSQL, Oracle, SQLite, MongoDB, Firebase | Amazon AWS, Google Cloud, Contabo | Privada |
 | Online Engenharia de Sistemas | [Site](http://www.onlinesistemas.net) | Cuiabá | Delphi, C#, ASP.NET | - | - | Privada |
+| Opção Virtual | [Site](http://opcaovirtual.com.br) | Rondonópolis | Delphi, Java, C# | Oracle | - | Privada |
 | Prixx Tecnologia | [Site](http://prixxtecnologia.com.br) | Cuiabá | - | - | - | Privada |
 | Procurix | [Site](http://www.procurix.com.br) | Cuiabá | PHP, Zend Framework, HTML, CSS, Javascript | - | - | Privada |
 | Recicla-e | [Site](http://www.reciclae.com) | Cuiabá | - | - | - | Privada |
