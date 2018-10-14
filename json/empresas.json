@@ -663,6 +663,14 @@
     ],
     "type": "Público"
   },
+  "Naja Software": {
+    "city": "Rondonópolis",
+    "cloud": null,
+    "database": null,
+    "site": "http://http://www.najasoftware.com.br",
+    "technology": null,
+    "type": "Privada"
+  },
   "Nuvem Tecnologia": {
     "city": "Cuiabá",
     "cloud": [
