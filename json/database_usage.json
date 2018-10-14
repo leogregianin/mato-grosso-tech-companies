@@ -3,7 +3,7 @@
   "Firebird": 5,
   "MongoDB": 6,
   "MySQL": 15,
-  "Oracle": 8,
+  "Oracle": 9,
   "PostgreSQL": 12,
   "Redis": 1,
   "SQL Anywhere": 1,
