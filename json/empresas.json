@@ -612,6 +612,16 @@
     ],
     "type": "Privada"
   },
+  "MyWeek": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "https://www.myweek.in",
+    "technology": [
+      "PHP"
+    ],
+    "type": "Privada"
+  },
   "NBS Informática": {
     "city": "Cuiabá",
     "cloud": [
@@ -669,6 +679,16 @@
     "database": null,
     "site": "http://www.najasoftware.com.br",
     "technology": null,
+    "type": "Privada"
+  },
+  "NotaDrive": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": null,
+    "site": "https://www.notadrive.com.br",
+    "technology": [
+      "Java"
+    ],
     "type": "Privada"
   },
   "Nuvem Tecnologia": {
