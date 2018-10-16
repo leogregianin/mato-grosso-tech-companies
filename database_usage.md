@@ -3,7 +3,7 @@
 | MySQL | 15 |
 | PostgreSQL | 12 |
 | SQL Server | 12 |
-| Oracle | 8 |
+| Oracle | 9 |
 | MongoDB | 6 |
 | Firebird | 5 |
 | Firebase | 4 |
