@@ -2,9 +2,10 @@
 |------------ | -----------|
 | PHP | 28 |
 | Javascript | 27 |
+| PHP | 27 |
 | Java | 26 |
-| Delphi | 23 |
-| C# | 19 |
+| Delphi | 24 |
+| C# | 20 |
 | HTML | 12 |
 | CSS | 12 |
 | Ionic | 8 |
