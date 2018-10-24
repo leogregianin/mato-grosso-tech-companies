@@ -92,6 +92,7 @@
 | UNIC | [Site](http://www.unic.com.br) | Cuiabá | Java | - | - | Privada |
 | UNIVAG | [Site](http://www.univag.edu.br) | Várzea Grande | C#, PHP | SQL Server | - | Privada |
 | Vector Informática | [Site](http://www.vectorinf.com.br) | Cuiabá | Delphi, PHP, Java | - | - | Privada |
+| W2R Soluções | [Site](http://w2rsolucoes.com.br/Site) | Sinop | C# | - | - | Privada |
 | Webflavia | [Site](http://www.webflavia.com.br) | Cuiabá | PHP, Javascript | - | - | Privada |
 | Weeke Aplicativos | [Site](http://www.weeke.com.br) | Cuiabá | - | - | - | Privada |
 | Worx Tecnologia | [Site](http://www.worxtecnologia.com.br) | Cuiabá | - | - | - | Privada |
