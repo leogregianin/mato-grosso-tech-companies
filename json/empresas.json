@@ -380,6 +380,14 @@
     ],
     "type": "Privada"
   },
+  "H7 Tecnologia da Informação": {
+    "city": "Rondonópolis",
+    "cloud": null,
+    "database": null,
+    "site": "http://h7ti.com.br",
+    "technology": null,
+    "type": "Privada"
+  },
   "HTDigital": {
     "city": "Várzea Grande",
     "cloud": null,
@@ -1108,6 +1116,16 @@
       "Delphi",
       "PHP",
       "Java"
+    ],
+    "type": "Privada"
+  },
+  "W2R Soluções": {
+    "city": "Sinop",
+    "cloud": null,
+    "database": null,
+    "site": "http://w2rsolucoes.com.br/Site",
+    "technology": [
+      "C#"
     ],
     "type": "Privada"
   },
