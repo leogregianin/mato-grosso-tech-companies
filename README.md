@@ -39,6 +39,7 @@
 | Eptus Corporation | [Site](http://www.brasil.eptus.com.br) | Cuiabá | Delphi, PHP | - | - | Privada |
 | Estuda.com | [Site](http://www.estuda.com) | Cuiabá | PHP, React Native | - | - | Privada |
 | Expert BI | [Site](http://www.expertbi.com.br) | Cuiabá | Qlik View | SQL Server | - | Privada |
+| H7 Tecnologia da Informação | [Site](http://h7ti.com.br) | Rondonópolis | - | - | - | Privada |
 | Harmony Sistemas | [Site](http://www.harmonysistemas.com.br) | Cuiabá | - | - | - | Privada |
 | Hetosoft | [Site](http://www.hetosoft.com.br) | Várzea Grande | Delphi, C#, Xamarin | SQL Server, Firebird | Azure | Privada |
 | HTDigital | [Site](www.htdigital.com.br) | Várzea Grande | HTML, CSS, Javascript, jQuery, PHP, C# | - | - | Privada |
