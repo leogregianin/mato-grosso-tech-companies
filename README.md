@@ -16,6 +16,7 @@
 | AgenSite | [Site](http://www.agensite.com) | Cuiabá | PHP, Javascript | - | Amazon AWS, Locaweb | Privada |
 | AgriRent | [Site](http://www.agrirent.com.br) | Sinop | PHP, Symfony, Doctrine, Vue | MySQL | Locaweb | Privada |
 | AgroV | [Site](http://www.agrov.com.br) | Cuiabá | Java, JSF, Hibernate | PostgreSQL | Digital Ocean | Privada |
+| Alfameta Sistemas | [Site](http://www.alfameta.com.br) | Sinop | Delphi, PHP, Python, JavaScript | Sybase, MySQL, PostgreSQL | | Privada |
 | AloW | [Site](http://www.alow.com.br) | Cuiabá | - | - | - | Privada |
 | Angel Sistemas | [Site](http://www.angelsistemas.com.br) | Cuiabá | Delphi, C# | - | - | Privada |
 | Axys Tecnologia | [Site](http://www.axystecnologia.com.br) | Cuiabá | C# | - | - | Privada |

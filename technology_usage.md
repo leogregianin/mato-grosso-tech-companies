@@ -1,19 +1,19 @@
 |+Technology | Count |
 |------------ | -----------|
-| PHP | 28 |
+| PHP | 29 |
 | Javascript | 27 |
 | Java | 27 |
-| Delphi | 24 |
+| Delphi | 25 |
 | C# | 21 |
 | HTML | 12 |
 | CSS | 12 |
 | Ionic | 8 |
 | jQuery | 7 |
 | Android | 7 |
+| Python | 6 |
 | ASP.NET | 6 |
 | Angular | 5 |
 | NodeJS | 5 |
-| Python | 5 |
 | Genexus | 4 |
 | JSF | 4 |
 | Hibernate | 4 |
@@ -35,6 +35,7 @@
 | Tomcat | 2 |
 | Symfony | 1 |
 | Doctrine | 1 |
+| JavaScript | 1 |
 | Magento | 1 |
 | Wordpress | 1 |
 | Yii | 1 |
