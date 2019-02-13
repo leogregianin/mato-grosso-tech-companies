@@ -73,6 +73,25 @@
     ],
     "type": "Privada"
   },
+  "Alfameta Sistemas": {
+    "city": "Sinop",
+    "cloud": [
+      ""
+    ],
+    "database": [
+      "Sybase",
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "site": "http://www.alfameta.com.br",
+    "technology": [
+      "Delphi",
+      "PHP",
+      "Python",
+      "JavaScript"
+    ],
+    "type": "Privada"
+  },
   "AloW": {
     "city": "Cuiabá",
     "cloud": null,
