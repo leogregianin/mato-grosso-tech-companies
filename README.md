@@ -18,6 +18,7 @@
 | AgroV | [Site](http://www.agrov.com.br) | Cuiabá | Java, JSF, Hibernate | PostgreSQL | Digital Ocean | Privada |
 | Alfameta Sistemas | [Site](http://www.alfameta.com.br) | Sinop | Delphi, PHP, Python, JavaScript | Sybase, MySQL, PostgreSQL | | Privada |
 | AloW | [Site](http://www.alow.com.br) | Cuiabá | - | - | - | Privada |
+| Amazônia Sistemas | [Site](http://www.amazoniasistemas.com.br) | Primavera do Leste | C#, ASP.NET, ASP.NET Core, JavaScript, Dart, React, React Native, Ruby on Rails | SQL Server, MySQL, PostgreSQL, Firebase | Amazon AWS, Google Cloud, Azure | Privada |
 | Angel Sistemas | [Site](http://www.angelsistemas.com.br) | Cuiabá | Delphi, C# | - | - | Privada |
 | Axys Tecnologia | [Site](http://www.axystecnologia.com.br) | Cuiabá | C# | - | - | Privada |
 | Bitline | [Site](http://www.bitline.com.br) | Cuiabá | Delphi, PHP, HTML, CSS, Javascript, Bootstrap, jQuery | MySQL | | Privada |
@@ -47,7 +48,7 @@
 | i9 Desenvolvimento | [Site](http://www.i9desenvolvimento.com.br) | Cuiabá | Typescript, Javascript, Ionic, HTML, CSS | Firebase | Google Cloud | Privada |
 | IGula | [Site](http://www.igula.com.br) | Cuiabá | Typescript, Ionic | - | - | Privada |
 | Inovabit | [Site](http://www.inovabit.com.br) | Cuiabá | - | - | - | Privada |
-| Intelecto Sistemas | [Site](http://www.intelecto.com.br) | Cuiabá | Delphi, Typescript, Ionic, Java, Android, PHP, Laravel, Python, PowerBI | SQL Anywhere, SQL Server, Oracle, SQLite, MySQL | Amazon AWS, Azure, Locaweb | Privada |
+| Intelecto Sistemas | [Site](http://www.intelecto.com.br) | Cuiabá | Delphi, Typescript, Ionic, Java, Android, PHP, Laravel, Python, PowerBI | Sybase, SQL Server, Oracle, SQLite, MySQL | Amazon AWS, Azure, Locaweb | Privada |
 | JMJ | [Site](https://www.jmjsistemas.com.br) | Sinop | Java, Javascript | - | - | Privada |
 | Junta Comercial (Jucemat) | [Site](http://www.jucemat.mt.gov.br) | Cuiabá | Ruby | - | - | Público |
 | Kasterweb | [Site](http://www.kasterweb.com.br) | Cuiabá | PHP, Zend Framework | MySQL | - | Privada |

@@ -1,13 +1,12 @@
 |+Database | Count |
 |------------ | -----------|
-| MySQL | 16 |
-| PostgreSQL | 13 |
-| SQL Server | 12 |
+| MySQL | 17 |
+| PostgreSQL | 14 |
+| SQL Server | 13 |
 | Oracle | 9 |
 | MongoDB | 6 |
 | Firebird | 5 |
-| Firebase | 4 |
+| Firebase | 5 |
 | SQLite | 4 |
-| Sybase | 1 |
+| Sybase | 2 |
 | Redis | 1 |
-| SQL Anywhere | 1 |

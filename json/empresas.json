@@ -100,6 +100,32 @@
     "technology": null,
     "type": "Privada"
   },
+  "Amazônia Sistemas": {
+    "city": "Primavera do Leste",
+    "cloud": [
+      "Amazon AWS",
+      "Google Cloud",
+      "Azure"
+    ],
+    "database": [
+      "SQL Server",
+      "MySQL",
+      "PostgreSQL",
+      "Firebase"
+    ],
+    "site": "http://www.amazoniasistemas.com.br",
+    "technology": [
+      "C#",
+      "ASP.NET",
+      "ASP.NET Core",
+      "JavaScript",
+      "Dart",
+      "React",
+      "React Native",
+      "Ruby on Rails"
+    ],
+    "type": "Privada"
+  },
   "Angel Sistemas": {
     "city": "Cuiabá",
     "cloud": null,
@@ -474,7 +500,7 @@
       "Locaweb"
     ],
     "database": [
-      "SQL Anywhere",
+      "Sybase",
       "SQL Server",
       "Oracle",
       "SQLite",
