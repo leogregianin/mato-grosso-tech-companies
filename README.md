@@ -49,7 +49,7 @@
 | IGula | [Site](http://www.igula.com.br) | Cuiabá | Typescript, Ionic | - | - | Privada |
 | Inovabit | [Site](http://www.inovabit.com.br) | Cuiabá | - | - | - | Privada |
 | Intelecto Sistemas | [Site](http://www.intelecto.com.br) | Cuiabá | Delphi, Typescript, Ionic, Java, Android, PHP, Laravel, Python, PowerBI | Sybase, SQL Server, Oracle, SQLite, MySQL | Amazon AWS, Azure, Locaweb | Privada |
-| JMJ | [Site](https://www.jmjsistemas.com.br) | Sinop | Java, Javascript | - | - | Privada |
+| JMJ Sistemas e Consultoria | [Site](https://www.jmjsistemas.com.br) | Sinop | Java, Javascript, Angular, Ionic, Wordpress, Typescript, Vue, Tomcat, Spring | MySQL, PostgreSQL, SQL Server, Oracle, Firebase  | Amazon AWS, Embratel Cloud | Privada |
 | Junta Comercial (Jucemat) | [Site](http://www.jucemat.mt.gov.br) | Cuiabá | Ruby | - | - | Público |
 | Kasterweb | [Site](http://www.kasterweb.com.br) | Cuiabá | PHP, Zend Framework | MySQL | - | Privada |
 | Kpersoft | [Site](http://www.kpersoft.com.br) | Rondonópolis | - | - | - | Privada |
