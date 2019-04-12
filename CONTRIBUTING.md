@@ -9,4 +9,4 @@ Suas contribuições são sempre bem-vindas!
 
 * Adicione uma empresa para cada Pull Request.
 * Adicione a empresa seguindo a estrutura do Markdown do GitHub.
-* Após a alteração do README.md, abra seu terminal preferido e execute: ```python sort.py``` ou ```py sort.py``` para ordenação alfabética dos nomes das empresas e a geração das estatísticas.
+* Após a alteração do README.md, abra seu terminal preferido e execute: ```python sort.py``` para ordenação alfabética dos nomes das empresas e a geração das estatísticas.
