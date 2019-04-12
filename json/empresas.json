@@ -522,12 +522,28 @@
   },
   "JMJ": {
     "city": "Sinop",
-    "cloud": null,
-    "database": null,
+    "cloud": [
+      "Amazon AWS",
+      "Embratel Cloud"
+    ],
+    "database": [
+      "MySQL",
+      "PostgreSQL",
+      "SQL Server",
+      "Oracle",
+      "Firebase"
+    ],
     "site": "https://www.jmjsistemas.com.br",
     "technology": [
       "Java",
-      "Javascript"
+      "Javascript",
+      "Angular",
+      "Ionic",
+      "Wordpress",
+      "Typescript",
+      "Vue",
+      "Tomcat",
+      "Spring"
     ],
     "type": "Privada"
   },

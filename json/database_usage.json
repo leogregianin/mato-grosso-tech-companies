@@ -1,12 +1,12 @@
 {
-  "Firebase": 5,
+  "Firebase": 6,
   "Firebird": 5,
   "MongoDB": 6,
-  "MySQL": 17,
-  "Oracle": 9,
-  "PostgreSQL": 14,
+  "MySQL": 18,
+  "Oracle": 10,
+  "PostgreSQL": 15,
   "Redis": 1,
-  "SQL Server": 13,
+  "SQL Server": 14,
   "SQLite": 4,
   "Sybase": 2
 }

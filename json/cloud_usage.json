@@ -1,8 +1,9 @@
 {
-  "Amazon AWS": 9,
+  "Amazon AWS": 10,
   "Azure": 5,
   "Contabo": 1,
   "Digital Ocean": 3,
+  "Embratel Cloud": 1,
   "Google Cloud": 3,
   "Heroku": 1,
   "Locaweb": 3,
