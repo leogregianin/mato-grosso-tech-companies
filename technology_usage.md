@@ -1,6 +1,6 @@
 |+Technology | Count |
 |------------ | -----------|
-| PHP | 29 |
+| PHP | 30 |
 | Javascript | 27 |
 | Java | 27 |
 | Delphi | 25 |
