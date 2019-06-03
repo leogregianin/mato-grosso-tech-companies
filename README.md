@@ -31,7 +31,7 @@
 | Connect Sotware | [Site](http://www.connect.com.vc) | Cuiabá | Delphi, C#, PHP | MySQL | - | Privada |
 | Consignum | [Site](http://www.consignum.com.br) | Cuiabá | Java, JBoss, JSF, Hibernate | PostgreSQL | - | Privada |
 | ControlSoft | [Site](http://www.controlsoft.com.br) | Sorriso | - | - | - | Privada |
-| Coplan | [Site](https://www.coplan.srv.br) | Cuiabá | Java, Genexus | - | - | Privada |
+| Coplan | [Site](https://www.coplan.srv.br) | Cuiabá | Java, Genexus, PHP | PostgreSQL, MySQL | - | Privada |
 | Data Norte Sistemas | [Site](http://datanorte.com.br/) | Sinop | Delphi, PHP | MySQL | - | Privada |
 | Dexatec | [Site](http://dexatec.com) | Rondonópolis | Javascript, jQuery, HTML, CSS, Angular, Python, Ionic | PostgreSQL, MongoDB | - | Privada |
 | Dropo | [Site](http://www.dropo.me) | Cuiabá | ASP.NET, Javascript | - | - | Privada |
