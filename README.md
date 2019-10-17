@@ -6,7 +6,8 @@
 
  * Contribuições são sempre bem-vindas, stars e forks também. :star::star::star: Veja o [Guia de Contribuições](CONTRIBUTING.md).
 
-[![Build Status](https://travis-ci.org/leogregianin/empresas-de-software-mato-grosso.svg?branch=master)](https://travis-ci.org/leogregianin/empresas-de-software-mato-grosso)
+[![Build Status](https://travis-ci.org/leogregianin/empresas-de-software-mato-grosso.svg?branch=master)](https://travis-ci.org/leogregianin/empresas-de-software-mato-grosso)[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleogregianin%2Fempresas-de-software-mato-grosso.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleogregianin%2Fempresas-de-software-mato-grosso?ref=badge_shield)
+
 
 
 |+Empresa  | Site | Sede | Desenvolvimento | Banco de dados | Cloud | Empresa/Órgão |
@@ -109,3 +110,7 @@
 # Outras referências
 ## [Empresas com trabalho remoto no Brasil](https://github.com/lerrua/remote-jobs-brazil)
 ## [Empresas com trabalho remoto no mundo](https://github.com/remoteintech/remote-jobs)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleogregianin%2Fempresas-de-software-mato-grosso.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleogregianin%2Fempresas-de-software-mato-grosso?ref=badge_large)
