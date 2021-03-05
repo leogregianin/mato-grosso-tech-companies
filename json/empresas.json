@@ -602,6 +602,25 @@
     ],
     "type": "Privada"
   },
+  "Lucro Rural": {
+    "city": "Cuiabá",
+    "cloud": null,
+    "database": [
+      "PostgreSQL",
+      "Redis"
+    ],
+    "site": "https://www.lucrorural.com.br",
+    "technology": [
+      "Python",
+      "Django",
+      "Django Rest Framework",
+      "Celery",
+      "Typescript",
+      "React",
+      "React Native"
+    ],
+    "type": "Privada"
+  },
   "MBoss": {
     "city": "Sinop",
     "cloud": null,

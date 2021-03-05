@@ -8,20 +8,20 @@
 | HTML | 12 |
 | CSS | 12 |
 | Ionic | 9 |
+| Python | 7 |
 | ASP.NET | 7 |
 | jQuery | 7 |
 | Android | 7 |
 | Angular | 6 |
-| Python | 6 |
-| React | 5 |
-| React Native | 5 |
+| React | 6 |
+| React Native | 6 |
 | NodeJS | 5 |
+| Typescript | 5 |
 | Genexus | 4 |
 | JSF | 4 |
 | Hibernate | 4 |
 | ASP.NET Core | 4 |
 | Ruby | 4 |
-| Typescript | 4 |
 | Vue | 3 |
 | Ruby on Rails | 3 |
 | JBoss | 3 |
@@ -34,6 +34,7 @@
 | Wordpress | 2 |
 | Spring | 2 |
 | Zend Framework | 2 |
+| Django | 2 |
 | Sistemas Embarcados | 2 |
 | C++ | 2 |
 | Symfony | 1 |
@@ -43,8 +44,9 @@
 | Yii | 1 |
 | Qlik View | 1 |
 | PowerBI | 1 |
+| Django Rest Framework | 1 |
+| Celery | 1 |
 | JSP | 1 |
-| Django | 1 |
 | R | 1 |
 | Redux | 1 |
 | Kotlin | 1 |

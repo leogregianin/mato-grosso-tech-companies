@@ -4,8 +4,8 @@
   "MongoDB": 6,
   "MySQL": 19,
   "Oracle": 10,
-  "PostgreSQL": 16,
-  "Redis": 1,
+  "PostgreSQL": 17,
+  "Redis": 2,
   "SQL Server": 14,
   "SQLite": 4,
   "Sybase": 2

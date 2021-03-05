@@ -55,6 +55,7 @@
 | Kpersoft | [Site](http://www.kpersoft.com.br) | Rondonópolis | - | - | - | Privada |
 | KS Tecnologia | [Site](http://kstecnologia.com.br) | Cuiabá | - | - | - | Privada |
 | Lotus Sistemas | [Site](http://www.lotussistemas.com) | Sinop | C# | SQL Server | - | Privada |
+| Lucro Rural | [Site](https://www.lucrorural.com.br) | Cuiabá | Python, Django, Django Rest Framework, Celery, Typescript, React, React Native | PostgreSQL, Redis | - | Privada |
 | MBoss | [Site](http://www.mboss.com.br) | Sinop | Java, Android | - | - | Privada |
 | MCN Sistemas | [Site](http://www.mcnsistemas.com.br) | Cuiabá | Delphi | - | - | Privada |
 | Movame | [Site](https://movameapp.com.br) | Cuiabá | - | - | - | Privada |
