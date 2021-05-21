@@ -85,6 +85,8 @@
     ],
     "site": "http://www.alfameta.com.br",
     "technology": [
+      "Flutter",
+      "Power BI",
       "Delphi",
       "PHP",
       "Python",
