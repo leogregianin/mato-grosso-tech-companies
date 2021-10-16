@@ -100,6 +100,7 @@
 | Webflavia | [Site](http://www.webflavia.com.br) | Cuiabá | PHP, Javascript | - | - | Privada |
 | Weeke Aplicativos | [Site](http://www.weeke.com.br) | Cuiabá | - | - | - | Privada |
 | Worx Tecnologia | [Site](http://www.worxtecnologia.com.br) | Cuiabá | - | - | - | Privada |
+| vector informática | [Site](http://www.vectorinf.com.br/softwaresdegestao.php) | Cuiabá | Java, C++, VisualBasic | - | - | Privada |
 
 # Estatísticas
 ## [Linguagens de programação e Tecnologias](technology_usage.md)
